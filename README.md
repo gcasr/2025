@@ -1,1 +1,1 @@
-# _template
+# eScience Conference Series Website Template
