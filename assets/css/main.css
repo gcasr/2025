@@ -1,24 +1,25 @@
 /* Themed colors */
 :root {
-    --primary-accent: #38a7bb;
-    --navbar-border-top: #20616d;
+    --primary-accent: #667ED3;
+    --navbar-border-top: #667ED3;
     --button-border: #2a7d8c;
     --link-focus: #267280;
     --form-shadow: rgba(56, 167, 187, 0.6);
     --pagination-bg: #a7dbe5;
-    --link-hover-bg: #2c8494;
-    --navbar-focus: #80cbd9;
+    --link-hover-bg: #667ED3;
+    --navbar-focus: #fff;
   }
   
   .clearfix:before,
   .clearfix:after,
   .navbar:before,
   .navbar:after,
-  .navbar-header:before,
-  .navbar-header:after {
+  
+  .navbar-header:before, .navbar-header:after {
     content: " ";
     display: table;
   }
+
   .clearfix:after,
   .navbar:after,
   .navbar-header:after {
@@ -321,14 +322,18 @@
     letter-spacing: 0.08em;
     border-top: solid 5px transparent;
   }
+  
   .navbar ul.nav > li > a:hover {
     border-top: solid 5px var(--primary-accent);
   }
+  
   .navbar ul.nav > li.active > a,
   .navbar ul.nav > li.open > a {
     text-decoration: none !important;
     border-top: solid 5px var(--navbar-border-top);
+    background-color: var(--navbar-focus);
   }
+
   @media (max-width: 768px) {
     .navbar ul.nav > li.active > a,
     .navbar ul.nav > li.open > a {
@@ -3071,25 +3076,31 @@
       margin-right: 0;
     }
   }
+  
   .navbar-default {
-    background-color: #ffffff;
+    background-color: #425894;
     border-color: #cccccc;
     border-bottom: none;
   }
+
   .navbar-default .navbar-brand {
-    color: #555555;
+    color: #fff;
   }
+
   .navbar-default .navbar-brand:hover,
   .navbar-default .navbar-brand:focus {
-    color: #3b3b3b;
+    color: #fff;
     background-color: transparent;
   }
   .navbar-default .navbar-text {
     color: #777777;
   }
+  
   .navbar-default .navbar-nav > li > a {
-    color: #555555;
+    color: #fff;
+    text-decoration: none !important;
   }
+
   .navbar-default .navbar-nav > li > a:hover,
   .navbar-default .navbar-nav > li > a:focus {
     color: #555555;
@@ -3121,12 +3132,14 @@
   .navbar-default .navbar-form {
     border-color: #cccccc;
   }
+  
   .navbar-default .navbar-nav > .open > a,
   .navbar-default .navbar-nav > .open > a:hover,
   .navbar-default .navbar-nav > .open > a:focus {
     background-color: var(--primary-accent);
     color: #ffffff;
   }
+
   @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
       color: #555555;
