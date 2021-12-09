@@ -13,8 +13,8 @@ permalink: /
 </section>
 
 <div class="container">
-    <div class="row">
-        <div class="col-sm-8">
+    <div class="row" style="min-height: 51em;">
+        <div class="col-sm-4">
             <div class="">
                 <h1>{{ site.dates }}</h1>
                 <h2>{{ site.location }}</h2>
@@ -22,15 +22,43 @@ permalink: /
             </div>
         </div>
         <div class="col-sm-4">
-            <div class="twitter">
+            <div class="timeline">
+                <h3>Important Dates</h3>
+                <!-- <label>23 in the last 7 hours</label> -->
+                <div class="box">
+                    <div class="container">
+                        <div class="lines">
+                            {% for d in site.data.important_dates %}
+                            <div class="dot"></div>
+                            <div class="line"></div>
+                            {% endfor %}
+                        </div>
+                        <div class="cards">
+                            {% for d in site.data.important_dates %}
+                            <div class="card">
+                                <h4>{{ d.date | date: "%A, %b %d, %Y" }}</h4>
+                                <p>{{ d.name }}</p>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="twitter" style="margin-left: 1em">
                 <div class="twitter-header">
                     <i class="fab fa-twitter"></i> @eScience
                 </div>
                 <a class="twitter-timeline" href="https://twitter.com/escience?ref_src=twsrc%5Etfw" data-dnt="true"
-                    data-theme="light" data-chrome=" nofooter noheader" data-height="52em" it="twitter-timeline">
+                    data-theme="light" data-chrome=" nofooter noheader" data-height="51em" it="twitter-timeline">
                     Tweets by eScience</a>
                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
+    </div>
+
+    <div class="row">
+        <br />dasdas
     </div>
 </div>

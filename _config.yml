@@ -23,8 +23,9 @@ description:
   infrastructures.
 
 ###################################################################
-
 # Do NOT change the settings below
+###################################################################
+
 markdown: kramdown
 enable-mathjax: yes
 
