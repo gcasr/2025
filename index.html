@@ -3,3 +3,11 @@ layout: default
 permalink: /
 ---
 
+<!-- carousel images-->
+<section>
+    <div id="owl-mainpage" class="owl-carousel owl-theme">
+        {% for photo in site.data.photos %}
+        <div class="item"><img src="{{ site.baseurl }}/images/photos/{{ photo.filename }}" alt="Photo"></div>
+        {% endfor %}
+    </div>
+</section>
