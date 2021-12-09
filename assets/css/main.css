@@ -510,6 +510,7 @@ ul.list-style-none {
 	-webkit-transition: all 0.2s ease-out;
 	-moz-transition: all 0.2s ease-out;
 	transition: all 0.2s ease-out;
+	margin: 0.5em 0;
 }
 
 .navbar .yamm-content ul li a:hover {
@@ -4283,6 +4284,6 @@ a.list-group-item.active>.badge,
 }
 
 .yamm .dropdown.yamm-fw .dropdown-menu {
-	left: 15px;
-	right: 15px;
+	left: auto;
+	right: auto;
 }
