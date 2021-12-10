@@ -1,0 +1,39 @@
+edition: 00th # conference edition
+
+dates: September XX-XX, 20XX # conference dates
+
+location: Some City, Some Country # conference location
+
+description: 
+  IEEE eScience 20XX brings together leading interdisciplinary research 
+  communities, developers and users of eScience applications and enabling IT 
+  technologies. The objective of the eScience Conference is to promote and 
+  encourage all aspects of eScience and its associated technologies, applications, 
+  algorithms and tools with a strong focus on practical solutions and challenges. 
+  eScience 20XX interprets eScience in its broadest meaning that enables and improves 
+  innovation in data- and compute-intensive research across all domain sciences 
+  ranging from traditional areas in physics and earth sciences to more recent 
+  fields such as social sciences, arts and humanities, and artificial intelligence 
+  for a wide variety of target architectures including HPC, cloud and IoT 
+  infrastructures.
+
+# visibility of contents in the website
+contents:
+  calls:
+    papers: true
+    workshops: true
+    tutorials: true
+    posters: true
+  program:
+    timetable: true
+    keynotes: true
+    workshops: true
+    tutorials: true
+    panels: true
+  meeting:
+    registration: true
+    virtual: true
+    quickstart: true
+  committees:
+    organizers: true
+    pc: true 

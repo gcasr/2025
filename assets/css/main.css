@@ -4447,3 +4447,22 @@ a.list-group-item.active>.badge,
 .cf img {
 	max-height: 2em;
 }
+
+.organizer {
+	margin-left: 1em;
+	margin-right: 2em;
+	min-height: 14em;
+	max-width: 13em;
+	text-align: center;
+	margin-bottom: 2em;
+	float: left;
+}
+
+.organizer img {
+	max-width: 10em;
+	border-radius: 0.5em;
+}
+
+.organizer strong {
+	font-size: 1.2em;
+}

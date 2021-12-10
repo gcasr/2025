@@ -24,10 +24,18 @@
                                 <div class=yamm-content>
                                     <ul>
                                         <!-- <li><a href="{{ site.baseurl }}/important-dates">Important Dates</a></li> -->
+                                        {% if site.data.main.contents.calls.papers %}
                                         <li><a href="{{ site.baseurl }}/call-for-papers">Call for Papers</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.workshops %}
                                         <li><a href="{{ site.baseurl }}/call-for-workshops">Call for Workshops</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.tutorials %}
                                         <li><a href="{{ site.baseurl }}/call-for-tutorials">Call for Tutorials</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.posters %}
                                         <li><a href="{{ site.baseurl }}/call-for-posters">Call for Posters</a></li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </li>
@@ -72,7 +80,9 @@
                             <li>
                                 <div class=yamm-content>
                                     <ul>
-                                        <li><a href>Organizers</a></li>
+                                        {% if site.data.main.contents.committees.organizers %}
+                                        <li><a href="{{ site.baseurl }}/organizers">Organizers</a></li>
+                                        {% endif %}
                                         <li><a href>Program Committee</a></li>
                                         <li><a href="/about/#steering-committee">Steering Committee</a></li>
                                     </ul>

@@ -1,0 +1,135 @@
+---
+layout: twitter
+permalink: /organizers
+title: Organizers
+---
+
+<h2>General Chair</h2>
+{% assign general = site.data.organizers | where: "role","General Chair" %}
+<div class="row">
+    {% for o in general %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Program Chairs</h2>
+{% assign program = site.data.organizers | where: "role","Program Chair" %}
+<div class="row">
+    {% for o in program %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Publication Chairs</h2>
+{% assign publication = site.data.organizers | where: "role","Publication Chair" %}
+<div class="row">
+    {% for o in publication %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Publicity and Web Chairs</h2>
+{% assign publicity = site.data.organizers | where: "role","Publicity and Web Chair" %}
+<div class="row">
+    {% for o in publicity %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Workshop Chairs</h2>
+{% assign workshop = site.data.organizers | where: "role","Workshop Chair" %}
+<div class="row">
+    {% for o in workshop %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Tutorial Chairs</h2>
+{% assign tutorial = site.data.organizers | where: "role","Tutorial Chair" %}
+<div class="row">
+    {% for o in tutorial %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Poster Chair</h2>
+{% assign poster = site.data.organizers | where: "role","Poster Chair" %}
+<div class="row">
+    {% for o in poster %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Local Chairs</h2>
+{% assign local = site.data.organizers | where: "role","Local Chair" %}
+<div class="row">
+    {% for o in local %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Industry Chair</h2>
+{% assign industry = site.data.organizers | where: "role","Industry Chair" %}
+<div class="row">
+    {% for o in industry %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>
+
+<h2>Finance Chairs</h2>
+{% assign finance = site.data.organizers | where: "role","Finance Chair" %}
+<div class="row">
+    {% for o in finance %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endfor %}
+</div>

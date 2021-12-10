@@ -1,6 +1,6 @@
 | Submission Link         | [https://easychair.org/conferences/?conf=escience2021](https://easychair.org/conferences/?conf=escience2021) |
-| Conference Dates        | {{ site.dates }} |
-| Conference Address      | {{ site.location }} |
+| Conference Dates        | {{ site.data.main.dates }} |
+| Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
 The 17th IEEE eScience Conference will be held online on **September 20 – 23, 2021**.

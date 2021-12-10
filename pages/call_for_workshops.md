@@ -1,5 +1,5 @@
-| Conference Dates        | {{ site.dates }} |
-| Conference Address      | {{ site.location }} |
+| Conference Dates        | {{ site.data.main.dates }} |
+| Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
 ## Conference Call for Workshops
@@ -56,7 +56,7 @@ A proposal should be submitted as a single PDF file (up to 5 pages). The proposa
 - Tentative list of speakers (we invite the authors of the proposal to consider a diverse group of speakers in terms of e.g., race/ethnicity, gender, geographic areas)
 - Prior history of this workshop, if any
 
-### Contact information
+## Contact information
 
 - Michela Taufer - [taufer@utk.edu](mailto:taufer@utk.edu)
 - Flavio Vella - [Flavio.Vella@unibz.it](mailto:Flavio.Vella@unibz.it)

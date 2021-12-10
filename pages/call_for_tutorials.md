@@ -1,6 +1,6 @@
 | Submission Link         | [https://forms.gle/UsbBAxykPjmtbsB1A](https://forms.gle/UsbBAxykPjmtbsB1A) |
-| Conference Dates        | {{ site.dates }} |
-| Conference Address      | {{ site.location }} |
+| Conference Dates        | {{ site.data.main.dates }} |
+| Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
 ## Conference Call for Tutorials
