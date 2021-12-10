@@ -25,34 +25,12 @@ permalink: /
         </div>
         
         <!-- IMPORTANT DATES -->
-        <div class="col-sm-4">
-            <div class="timeline">
-                <h3>Important Dates</h3>
-                <!-- <label>23 in the last 7 hours</label> -->
-                <div class="box">
-                    <div class="container">
-                        <div class="lines">
-                            {% for d in site.data.important_dates %}
-                            <div class="dot"></div>
-                            <div class="line"></div>
-                            {% endfor %}
-                        </div>
-                        <div class="cards">
-                            {% assign dates = site.data.important_dates | order: "date" %}
-                            {% for d in dates %}
-                            <div class="card">
-                                <h4>{{ d.date | date: "%A, %b %d, %Y" }}</h4>
-                                <p>{{ d.name }}</p>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="col-sm-5">
+            {% include dates.html %}
         </div>
 
         <!-- TWITTER -->
-        <div class="col-sm-4">
+        <div class="col-sm-3">
             <div class="twitter" style="margin-left: 1em">
                 <div class="twitter-header">
                     <i class="fab fa-twitter"></i> @eScience
@@ -63,9 +41,5 @@ permalink: /
                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
-    </div>
-
-    <div class="row">
-        <br />
     </div>
 </div>
