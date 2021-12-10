@@ -49,7 +49,9 @@
                                 <div class=yamm-content>
                                     <ul>
                                         <li><a href>Timetable</a></li>
-                                        <li><a href>Keynotes</a></li>
+                                        {% if site.data.main.contents.program.keynotes %}
+                                        <li><a href="{{ site.baseurl }}/keynotes">Keynotes</a></li>
+                                        {% endif %}
                                         {% if site.data.main.contents.program.workshops %}
                                         <li><a href="{{ site.baseurl }}/workshops">Workshops</a></li>
                                         {% endif %}
