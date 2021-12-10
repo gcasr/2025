@@ -83,7 +83,9 @@
                                         {% if site.data.main.contents.committees.organizers %}
                                         <li><a href="{{ site.baseurl }}/organizers">Organizers</a></li>
                                         {% endif %}
-                                        <li><a href>Program Committee</a></li>
+                                        {% if site.data.main.contents.committees.organizers %}
+                                        <li><a href="{{ site.baseurl }}/pc">Program Committee</a></li>
+                                        {% endif %}
                                         <li><a href="/about/#steering-committee">Steering Committee</a></li>
                                     </ul>
                                 </div>
