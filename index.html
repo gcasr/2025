@@ -14,6 +14,8 @@ permalink: /
 
 <div class="container">
     <div class="row" style="min-height: 51em;">
+        
+        <!-- INTRODUCTION -->
         <div class="col-sm-4">
             <div class="">
                 <h1>{{ site.dates }}</h1>
@@ -21,6 +23,8 @@ permalink: /
                 <p>{{ site.description }}</p>
             </div>
         </div>
+        
+        <!-- IMPORTANT DATES -->
         <div class="col-sm-4">
             <div class="timeline">
                 <h3>Important Dates</h3>
@@ -34,7 +38,8 @@ permalink: /
                             {% endfor %}
                         </div>
                         <div class="cards">
-                            {% for d in site.data.important_dates %}
+                            {% assign dates = site.data.important_dates | order: "date" %}
+                            {% for d in dates %}
                             <div class="card">
                                 <h4>{{ d.date | date: "%A, %b %d, %Y" }}</h4>
                                 <p>{{ d.name }}</p>
@@ -45,6 +50,8 @@ permalink: /
                 </div>
             </div>
         </div>
+
+        <!-- TWITTER -->
         <div class="col-sm-4">
             <div class="twitter" style="margin-left: 1em">
                 <div class="twitter-header">
