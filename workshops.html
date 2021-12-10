@@ -7,8 +7,8 @@ title: Workshops
 {% assign wks = site.data.workshops %}
 <div class="row">
     {% for wk in wks %}
-    <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
-        <strong><a href='{{ wk.url }}'>{{ wk.name }}</a></strong><br />
+    <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
+        <h3><a href="{{ wk.url }}" target="_blank">{{ wk.name }}</a></h3>
         {{ wk.abstract }}
     </div>
     {% endfor %}

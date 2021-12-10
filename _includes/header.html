@@ -50,8 +50,12 @@
                                     <ul>
                                         <li><a href>Timetable</a></li>
                                         <li><a href>Keynotes</a></li>
-                                        <li><a href>Workshops</a></li>
-                                        <li><a href>Tutorials</a></li>
+                                        {% if site.data.main.contents.program.workshops %}
+                                        <li><a href="{{ site.baseurl }}/workshops">Workshops</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.tutorials %}
+                                        <li><a href="{{ site.baseurl }}/tutorials">Tutorials</a></li>
+                                        {% endif %}
                                         <li><a href>Panels</a></li>
                                     </ul>
                                 </div>
