@@ -1,0 +1,15 @@
+---
+layout: twitter
+permalink: /tutorials
+title: Tutorials
+---
+
+{% assign ts = site.data.tutorials %}
+<div class="row">
+    {% for t in ts %}
+    <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
+        <strong>{{ t.name }}</strong><br />
+        {{ t.abstract }}
+    </div>
+    {% endfor %}
+</div>

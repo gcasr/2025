@@ -1,0 +1,15 @@
+---
+layout: twitter
+permalink: /workshops
+title: Workshops
+---
+
+{% assign wks = site.data.workshops %}
+<div class="row">
+    {% for wk in wks %}
+    <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
+        <strong><a href='{{ wk.url }}'>{{ wk.name }}</a></strong><br />
+        {{ wk.abstract }}
+    </div>
+    {% endfor %}
+</div>
