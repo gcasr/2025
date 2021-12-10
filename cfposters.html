@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /call-for-posters
+title: Call for Posters
+---
+
+<header id=heading-breadcrumbs>
+    <div class="container">
+        <h1>{{ page.title }}</h1>
+    </div>
+</header>
+
+<div class="container">
+    <div class="row" style="min-height: 52em">
+        <div class="col-sm-12 col-md-8 cf">
+            {% capture cfp %}{% include_relative pages/call_for_posters.md %}{% endcapture %}            
+            {{ cfp | markdownify }}
+        </div>
+
+        <div class="col-sm-12 col-md-4">
+            {% include dates.html %}
+        </div>
+    </div>
+</div>
