@@ -23,5 +23,13 @@ In `_data/main.yml`, the `contents` key controls which pages/links will be **vis
 Edit `_data/important_dates.yml` with the list of important events (e.g., deadlines, notifications, etc.) related to the conference:
 
 - `type` and `date` are required keys
-- If the `extended` key is used, it will strikethrough the original date text and display the date extended date instead
+- If the `extended` key is used, it will strikethrough the original date text and display the extended date instead
 - Important dates will be displayed in the order entered in the file
+
+### Organizers
+
+Edit `_data/organizers.yml` with the list of organizers:
+
+- `name`, `role`, and `institution` are required keys
+- Possible values for `role` include: `General Chair`, `Program Chair`, `Publication Chair`, `Publicity and Web Chair`, `Workshop Chair`, `Tutorial Chair`, `Poster Chair`, `Local Chair`, `Industry Chair`, and `Finance Chair`
+- `photo` is an optional key that if provided an image file must be placed into `/images/organizers`
