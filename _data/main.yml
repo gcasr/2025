@@ -29,7 +29,7 @@ contents:
     keynotes: true
     workshops: true
     tutorials: true
-    panels: true
+    panel: true
   meeting:
     registration: true
     virtual: true

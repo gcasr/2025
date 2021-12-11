@@ -48,7 +48,9 @@
                             <li>
                                 <div class=yamm-content>
                                     <ul>
-                                        <li><a href>Timetable</a></li>
+                                        {% if site.data.main.contents.program.timetable %}
+                                        <li><a href="{{ site.baseurl }}/timetable">Timetable</a></li>
+                                        {% endif %}
                                         {% if site.data.main.contents.program.keynotes %}
                                         <li><a href="{{ site.baseurl }}/keynotes">Keynotes</a></li>
                                         {% endif %}
@@ -58,7 +60,9 @@
                                         {% if site.data.main.contents.program.tutorials %}
                                         <li><a href="{{ site.baseurl }}/tutorials">Tutorials</a></li>
                                         {% endif %}
-                                        <li><a href>Panels</a></li>
+                                        {% if site.data.main.contents.program.panel %}
+                                        <li><a href="{{ site.baseurl }}/panel">Panel</a></li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </li>

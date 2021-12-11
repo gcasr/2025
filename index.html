@@ -14,7 +14,7 @@ permalink: /
 
 <div class="container">
     <div class="row" style="min-height: 51em;">
-        
+
         <!-- INTRODUCTION -->
         <div class="col-sm-4">
             <div class="">
@@ -23,7 +23,7 @@ permalink: /
                 <p>{{ site.data.main.description }}</p>
             </div>
         </div>
-        
+
         <!-- IMPORTANT DATES -->
         <div class="col-sm-5">
             {% include dates.html %}
@@ -33,5 +33,22 @@ permalink: /
         <div class="col-sm-3">
             {% include twitter.html %}
         </div>
+    </div>
+</div>
+
+<div class="sponsors">
+    <div class="container">
+        <h4 style="margin-bottom: 1em; color: #666">Sponsors</h4>
+        {% for s in site.data.sponsors %}
+        <div class="col-sm-3 sponsor">
+            {% if s.link %}
+            <a href="{{ s.link }}" target="_blank">
+                <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+            </a>
+            {% else %}
+            <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+            {% endif %}
+        </div>
+        {% endfor %}
     </div>
 </div>
