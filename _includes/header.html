@@ -75,9 +75,15 @@
                             <li>
                                 <div class=yamm-content>
                                     <ul>
+                                        {% if site.data.main.contents.meeting.registration %}
                                         <li><a href>Registration</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.virtual %}
                                         <li><a href>Virtual Conference</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.quickstart %}
                                         <li><a href>Quickstart</a></li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </li>
@@ -93,7 +99,7 @@
                                         {% if site.data.main.contents.committees.organizers %}
                                         <li><a href="{{ site.baseurl }}/organizers">Organizers</a></li>
                                         {% endif %}
-                                        {% if site.data.main.contents.committees.organizers %}
+                                        {% if site.data.main.contents.committees.pc %}
                                         <li><a href="{{ site.baseurl }}/pc">Program Committee</a></li>
                                         {% endif %}
                                         <li><a href="/about/#steering-committee">Steering Committee</a></li>
