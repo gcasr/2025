@@ -3,7 +3,12 @@
         <div class=container>
             <div class=navbar-header>
                 <a class="navbar-brand home" href="{{ site.baseurl }}/" />
-                <img src="{{ site.baseurl }}/images/escience-logo.png" alt="{{ site.edition }} {{ site.title }}">
+                {% if site.data.main.logo %}
+                <img src="{{ site.baseurl }}/images/{{ site.data.main.logo }}" alt="{{ site.edition }} {{ site.title }}">
+                {% else %}
+                <span style="font-size: 1.1em">{{ site.data.main.edition }} IEEE eScience Conference</span><br />
+                <span style="font-variant: small-caps; font-size: 0.9em; color: #ccc">International Conference</span>
+                {% endif %}
                 <span class=sr-only>Universal - go to homepage</span>
                 </a>
                 <div class=navbar-buttons>

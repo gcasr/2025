@@ -1,5 +1,7 @@
 edition: 00th # conference edition
 
+# logo: escience-logo.png # conference logo (for menu in header bar)
+
 dates: September XX-XX, 20XX # conference dates
 
 location: Some City, Some Country # conference location
