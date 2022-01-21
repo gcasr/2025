@@ -1,6 +1,8 @@
 edition: 00th # conference edition
 
-# logo: escience-logo.png # conference logo (for menu in header bar)
+theme: International Conference
+
+# logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
 dates: September XX-XX, 20XX # conference dates
 
