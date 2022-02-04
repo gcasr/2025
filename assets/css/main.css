@@ -4447,8 +4447,12 @@ a.list-group-item.active>.badge,
 	max-height: 2em;
 }
 
+.organizers {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .organizer {
-	margin-left: 1em;
 	margin-right: 2em;
 	min-height: 14em;
 	max-width: 13em;
