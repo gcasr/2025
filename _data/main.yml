@@ -36,6 +36,7 @@ contents:
     panel: true
   meeting:
     registration: true
+    venue: true
     virtual: true
     quickstart: true
   committees:

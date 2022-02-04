@@ -81,13 +81,16 @@
                                 <div class=yamm-content>
                                     <ul>
                                         {% if site.data.main.contents.meeting.registration %}
-                                        <li><a href>Registration</a></li>
+                                        <li><a href="{{ site.baseurl }}/registration">Registration</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.venue %}
+                                        <li><a href="{{ site.baseurl }}/venue">Venue</a></li>
                                         {% endif %}
                                         {% if site.data.main.contents.meeting.virtual %}
-                                        <li><a href>Virtual Conference</a></li>
+                                        <li><a href="{{ site.baseurl }}/virtual">Virtual Conference</a></li>
                                         {% endif %}
                                         {% if site.data.main.contents.meeting.quickstart %}
-                                        <li><a href>Quickstart</a></li>
+                                        <li><a href="{{ site.baseurl }}/quickstart">Quickstart</a></li>
                                         {% endif %}
                                     </ul>
                                 </div>
