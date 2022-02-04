@@ -4456,6 +4456,7 @@ a.list-group-item.active>.badge,
 	margin-right: 2em;
 	min-height: 14em;
 	max-width: 13em;
+	min-width: 13em;
 	text-align: center;
 	margin-bottom: 2em;
 	float: left;
