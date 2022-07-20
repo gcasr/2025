@@ -18,6 +18,9 @@ collections:
   photos:
     output: true
     permalink: /images/:path/
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
 
 plugins:
   - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
