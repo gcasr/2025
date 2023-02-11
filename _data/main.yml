@@ -1,12 +1,12 @@
-edition: 00th # conference edition
+edition: 10th # conference edition
 
 theme: International Conference
 
 # logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
-dates: September XX-XX, 20XX # conference dates
+dates: Monday, May 8, 2023 # conference dates
 
-location: Some City, Some Country # conference location
+location: Illinois Tech, Chicago # conference location
 
 description: 
   IEEE eScience 20XX brings together leading interdisciplinary research 
