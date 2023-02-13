@@ -30,5 +30,6 @@ plugins:
 
 exclude:
   - .jekyll-cache
+  - .wakatime-project
   - README.md
   - LICENSE
