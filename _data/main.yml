@@ -9,17 +9,12 @@ dates: Monday, May 8, 2023 # conference dates
 location: Illinois Tech, Chicago # conference location
 
 description: 
-  IEEE eScience 20XX brings together leading interdisciplinary research 
-  communities, developers and users of eScience applications and enabling IT 
-  technologies. The objective of the eScience Conference is to promote and 
-  encourage all aspects of eScience and its associated technologies, applications, 
-  algorithms and tools with a strong focus on practical solutions and challenges. 
-  eScience 20XX interprets eScience in its broadest meaning that enables and improves 
-  innovation in data- and compute-intensive research across all domain sciences 
-  ranging from traditional areas in physics and earth sciences to more recent 
-  fields such as social sciences, arts and humanities, and artificial intelligence 
-  for a wide variety of target architectures including HPC, cloud and IoT 
-  infrastructures.
+  The Greater Chicago Area Systems Research Workshop (GCASR) is a premier venue for the Chicago and Midwest systems research community. 
+  The workshop's goal is to promote awareness, collaboration, and synergy among academic and corporate systems researchers in the region. 
+  The workshop includes major participation from the University of Chicago, Northwestern University, DePaul University, the University of 
+  Illinois at Chicago, the Illinois Institute of Technology, and Argonne National Laboratory. Its participants represent a variety of 
+  sub-areas of systems, broadly construed, including operating systems, distributed computing, systems for machine learning, high performance 
+  computing, computer architecture, networks, databases, and security.
 
 # visibility of contents in the website
 contents:

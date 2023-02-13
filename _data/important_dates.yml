@@ -1,28 +1,12 @@
-- type: Workshop submissions due
+- type: Early registration deadline
   date: Monday, March 15, 2021
 
-- type: Workshop acceptance notification
+- type: Poster submission deadline
   date: Tuesday, March 30, 2021
 
-- type: Paper/Abstract & Tutorial Submissions Due
-  date: Wednesday, April 07, 2021 
+- type: Poster notification
+  date: Wednesday, April 07, 2021
   extended: Thursday, April 15, 2021
 
-- type: Notification of Paper/Abstract and Tutorial Acceptance
-  date: Tuesday, June 01, 2021 
-  extended: Thursday, June 10, 2021
-
-- type: Poster submissions
-  date: Tuesday, June 15, 2021 Tuesday
-  extended: Friday, June 25, 2021
-
-- type: Poster acceptance notification
-  date: Tuesday, June 22, 2021 Tuesday, 
-  extended: Friday, July 02, 2021
-
-- type: All camera-ready submissions
-  date: Thursday, July 22, 2021 
-  extended: Sunday, July 25, 2021
-
-- type: Conference
-  date: Monday, September 20 to Thursday, September 23, 2021
+- type: Workshop
+  date: Tuesday, June 01, 2021
