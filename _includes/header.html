@@ -107,18 +107,20 @@
                                         {% if site.data.main.contents.committees.organizers %}
                                         <li><a href="{{ site.baseurl }}/organizers">Organizers</a></li>
                                         {% endif %}
-                                        {% if site.data.main.contents.committees.pc %}
+                                        {% if site.data.main.contents.committees.program %}
                                         <li><a href="{{ site.baseurl }}/pc">Program Committee</a></li>
                                         {% endif %}
+                                        {% if site.data.main.contents.committees.steering %}
                                         <li><a href="/about/#steering-committee">Steering Committee</a></li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <!-- <li class="dropdown">
                         <a href="/about" class=dropdown-toggle target="_blank">About</a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>

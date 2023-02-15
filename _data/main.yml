@@ -19,21 +19,22 @@ description:
 # visibility of contents in the website
 contents:
   calls:
-    papers: true
-    workshops: true
-    tutorials: true
+    papers: false
+    workshops: false
+    tutorials: false
     posters: true
   program:
     timetable: true
     keynotes: true
     workshops: true
-    tutorials: true
-    panel: true
+    tutorials: false
+    panel: false
   meeting:
     registration: true
     venue: true
-    virtual: true
-    quickstart: true
+    virtual: false
+    quickstart: false
   committees:
     organizers: true
-    pc: true 
+    program: false 
+    steering: false
