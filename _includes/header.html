@@ -41,6 +41,9 @@
                                         {% if site.data.main.contents.calls.posters %}
                                         <li><a href="{{ site.baseurl }}/call-for-posters">Call for Posters</a></li>
                                         {% endif %}
+                                        {% if site.data.main.contents.calls.speakers %}
+                                        <li><a href="{{ site.baseurl }}/call-for-speakers">Call for Speakers</a></li>
+                                        {% endif %}
                                     </ul>
                                 </div>
                             </li>
@@ -54,7 +57,7 @@
                                 <div class=yamm-content>
                                     <ul>
                                         {% if site.data.main.contents.program.timetable %}
-                                        <li><a href="{{ site.baseurl }}/program/timetable">Timetable</a></li>
+                                        <li><a href="{{ site.baseurl }}/timetable">Timetable</a></li>
                                         {% endif %}
                                         {% if site.data.main.contents.program.keynotes %}
                                         <li><a href="{{ site.baseurl }}/keynotes">Keynotes</a></li>
@@ -67,6 +70,9 @@
                                         {% endif %}
                                         {% if site.data.main.contents.program.panel %}
                                         <li><a href="{{ site.baseurl }}/panel">Panel</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.posters %}
+                                        <li><a href="{{ site.baseurl }}/posters">Posters</a></li>
                                         {% endif %}
                                     </ul>
                                 </div>

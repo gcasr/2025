@@ -4,7 +4,7 @@ theme: International Conference
 
 # logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
-dates: Monday, May 8, 2023 # conference dates
+dates: Monday, April 24, 2023 # conference dates
 
 location: Illinois Tech, Chicago # conference location
 
@@ -23,12 +23,14 @@ contents:
     workshops: false
     tutorials: false
     posters: true
+    speakers: true
   program:
     timetable: true
     keynotes: true
-    workshops: true
+    workshops: false
     tutorials: false
     panel: false
+    posters: true
   meeting:
     registration: true
     venue: true
