@@ -4,11 +4,11 @@ GCASR is a premier venue for Chicago and Midwest systems research community. The
 
 ### Submission
 
-TBA
+Submit your poster at: <https://forms.gle/hK94NBdWA7EjMzEt9>
 
 ### Submission Requirements
 
-- Please submit a poster abstract of no more than 500 words to the submission site: TBA
+- Please submit a poster abstract of no more than 500 words.
 - We welcome posters about already-published work. Please specify that in your abstract.
 - To encourage a broad participation and the diversity of the poster session, we limit at most 3 submissions from each research group. If you have multiple projects falling within the same theme, we recommend that you merge them into one stronger poster.
 - The final posters should be 24" by 36"

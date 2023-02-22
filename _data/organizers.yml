@@ -1,76 +1,53 @@
 roles:
   - General Chair
-  - Program Chair
-  - Publication Chair
-  - Publicity and Web Chair
-  - Workshop Chair
-  - Tutorial Chair
+  - Technical Program Chair
   - Poster Chair
-  - Local Chair
-  - Industry Chair
+  - Local Organizing Chair
+  - Communication Chair
   - Finance Chair
 
 organizers:
-  - name: Thomas Fahringer
+  - name: Ioan Raicu
     role: General Chair
-    institution: University of Innsbruck, Austria
+    institution: Illinois Tech
+    photo: ioan_raicu.jpeg
 
-  - name: Erwin Laure
-    role: Program Chair
-    institution: Max-Planck Computing and Data Facility, Garching, Germany
+  - name: Yanjing Li
+    role: General Chair
+    institution: University of Chicago
+    photo: yanjing_li.jpeg
 
-  - name: Sinead Ryan
-    role: Program Chair
-    institution: Trinity College Dublin, Ireland
+  - name: Bogdan Nicolae
+    role: Technical Program Chair
+    institution: Argonne National Laboratory
+    photo: bogdan_nicolae.jpeg
 
-  - name: Erwin Laure
-    role: Publication Chair
-    institution: Max-Planck Computing and Data Facility, Garching, Germany
-
-  - name: Philipp Gschwandtner
-    role: Publicity and Web Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Rafael Ferreira da Silva
-    role: Publicity and Web Chair
-    institution: University of Southern California, Los Angeles, CA, USA
-
-  - name: Flavio Vella
-    role: Workshop Chair
-    institution: Free University of Bozen-Bolzano, Italy
-
-  - name: Michela Taufer
-    role: Workshop Chair
-    institution: University of Tennessee, Knoxville, USA
-
-  - name: Peter Thoman
-    role: Tutorial Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Kento Sato
-    role: Tutorial Chair
-    institution: RIKEN R-CCS, Kobe, Japan
-
-  - name: Carsten Trinitis
+  - name: Poornima Nookala
     role: Poster Chair
-    institution: Technical University Munich, Germany
+    institution: Intel
+    photo: poornima_nookala.jpeg
 
-  - name: Philipp Gschwandtner
-    role: Local Chair
-    institution: University of Innsbruck, Austria
+  - name: Nazli Siasi
+    role: Poster Chair
+    institution: DePaul University
+    photo: nazli_siasi.jpeg
 
-  - name: Peter Thoman
-    role: Local Chair
-    institution: University of Innsbruck, Austria
+  - name: Kyle Hale
+    role: Local Organizing Chair
+    institution: Illinois Tech
+    photo: kyle_hale.jpeg
 
-  - name: Sai Narasimhamurthy
-    role: Industry Chair
-    institution: Seagate Technology, Maidenhead, UK
+  - name: Scott Pfeiffer
+    role: Local Organizing Chair
+    institution: Illinois Tech
+    photo: scott_pfeiffer.jpeg
 
-  - name: Manuela Resch
+  - name: Anthony Kougkas
+    role: Communication Chair
+    institution: Illinois Tech
+    photo: anthony_kougkas.jpeg
+
+  - name: Kyle Chard
     role: Finance Chair
-    institution: University of Innsbruck, Austria
-
-  - name: Silvia Bosetti-Haid
-    role: Finance Chair
-    institution:  University of Innsbruck, Austria
+    institution: University of Chicago
+    photo: kyle_chard.jpeg
