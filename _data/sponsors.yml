@@ -1,12 +1,23 @@
-- name: IEEE
-  image: ieee.png
+- name: Illinois Tech
+  image: illinois_tech.png
+  link: https://iit.edu
   
-- name: IEEE Computer Society Technical COmmittee on Parallel Processing
-  image: TCPP.png
-  link: https://tc.computer.org/tcpp/
+- name: Argonne National Laboratory
+  image: anl.png
+  link: https://www.anl.gov
 
-- name: Universitat Innsbruck
-  image: uibk.png
+- name: DePaul University
+  image: depaul.png
+  link: https://depaul.edu
 
-- name: FZHPC
-  image: fz_hpc_.png
+- name: The University of Chicago
+  image: uchicago.png
+  link: https://uchicago.edu
+
+- name: Northwestern University
+  image: northwestern.png
+  link: https://www.northwestern.edu
+
+- name: Loyola University Chicago
+  image: loyola.png
+  link: https://www.luc.edu/

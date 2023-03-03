@@ -13,7 +13,7 @@ permalink: /
 </section>
 
 <div class="container">
-    <div class="row" style="min-height: 40em;">
+    <div class="row">
 
         <!-- INTRODUCTION -->
         <div class="col-sm-5">
@@ -36,11 +36,30 @@ permalink: /
     </div>
 </div>
 
-<!-- <div class="sponsors">
+<style>
+    .sponsors {
+        padding-bottom: 3em;
+    }
+    .sponsors .sponsor {
+        display: flex;
+        min-height: 8em;
+    }
+    .sponsors .sponsor a {
+        align-self: center;
+        margin-left: 2em;
+        margin-right: 2em;
+    }
+    .sponsors .sponsor a img {
+        max-height: none;
+        width: 100%;
+    }
+</style>
+
+<div class="sponsors">
     <div class="container">
-        <h4 style="margin-bottom: 3em; color: #666">Sponsors</h4>
+        <h4 style="margin-bottom: 1em; color: #666">Participating Institutions</h4>
         {% for s in site.data.sponsors %}
-        <div class="col-sm-3 sponsor">
+        <div class="col-sm-4 sponsor">
             {% if s.link %}
             <a href="{{ s.link }}" target="_blank">
                 <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
@@ -51,4 +70,4 @@ permalink: /
         </div>
         {% endfor %}
     </div>
-</div> -->
+</div>
