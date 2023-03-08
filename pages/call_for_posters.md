@@ -10,7 +10,7 @@ Submit your poster at: <https://forms.gle/hK94NBdWA7EjMzEt9>
 
 - Please submit an abstract of no more than 250 words.
 - Posters may cover already-published work.
-- The final posters should be 3x4 feet.
+- The final posters should be 30x40.
 
 ### Need Help?
 
