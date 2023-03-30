@@ -12,6 +12,22 @@ Submit your poster at: <https://forms.gle/hK94NBdWA7EjMzEt9>
 - Posters may cover already-published work.
 - The final posters should be 30x40.
 
+### Topics of Interest
+
+Topics of interest include, but are not limited to:
+
+- Operating Systems 
+- Computer Architecture
+- Networking
+- Distributed Systems
+- Grids/Clouds/Supercomputing (including HPC/MTC/HTC)
+- Reconfigurable, Real-time, Cyberphysical, and Embedded Systems
+- Programming Languages and Runtime Systems
+- File and Storage Systems
+- Parallelism and Multi/Many-core Systems
+- Secure and Reliable Systems
+- Databases
+
 ### Need Help?
 
 Contact [gcasr@googlegroups.com](mailto:gcasr@googlegroups.com) with questions.
