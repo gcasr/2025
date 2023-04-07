@@ -1,31 +1,15 @@
-- title: "Climate Modelling: Computing and Data Challenges"
-  time: Tue, 3:00 PM - 4:30 PM
-  name: Sylvie Joussaume
-  institution: French National Centre for Scientific Research (CNRS)
-  photo: joussaume.jpg
-  abstract: "Climate models are extensively used to assess mitigation and adaptation strategies for climate change, as shown by the Intergovernmental Panel on Climate Change Assessment Reports. The international climate modelling community supports these assessments through internationally coordinated experiments, the latest one in support to the 6th Assessment Report (to come out August 2021) being the 6th phase of the Coupled modeling intercomparison project, CMIP6. These experiments provide climate projections for future climate scenarios but also enhance the scientific basis for model evaluation and for understanding of climate processes. They represent an important investment in both computing and data shared openly through the Earth System Grid Federation, supported by the European Network for Earth System modelling (ENES) infrastructure project, IS-ENES. The future of climate modeling highly depends on available computing power: ensemble of prediction experiments to better estimate uncertainties, increase of resolution to better represent small scale processes, enhanced complexity of the Earth's climate system to include biogeochemical cycles, capacity to run long experiments to investigate climate stability. Preparing for next generation climate models, enabling efficient high-resolution simulations, is addressed by the European Center of Excellence in HPC, ESiWACE. It gathers the climate and weather modelling communities with the object to enhance synergies between the two communities to address the new computing architectures, a challenge for these communities relying on legacy codes."
-  biography: Sylvie Joussaume is an expert in climate modelling within CNRS. She has been involved in several assessment reports of the Intergovernmental Panel on Climate. Change. She coordinates since 2009 the European infrastructure project, IS-ENES, which integrates the European climate models in a common research infrastructure dealing with models, model data and high-performance computing for climate (http://is.enes.org). She has been chair of the PRACE scientific committee in 2015. She also chairs the scientific evaluation committee of GENCI, the French national HPC facilities, and the scientific committee of ORAP that promotes high-performance computing in France.
+- title: "TBA"
+  time: TBA
+  name: Chris Gladwin
+  institution: Ocient
+  photo: chris_gladwin.jpeg
+  abstract: "TBA"
+  biography: "Chris Gladwin is an American inventor, computer engineer and technology entrepreneur, who has founded or co-founded a series of tech-related companies including MusicNow, Cleversafe and Ocient."
 
-- title: Recipe for a European High Performance Processor Startup
-  time: Wed, 10:30 AM - 12:00 PM
-  name: Craig Prunty
-  institution: SiPearl VP Marketing & Business Development
-  photo: prunty.jpg
-  abstract: "There are a number of market forces affecting HPC and server processing markets today: the push to exascale, the rise of artificial intelligence, and the deluge of data to be processed, combined with the transition from monolithic applications to complex workflows combining classical HPC models with AI. Recent evolutions in the HPC hardware technologies landscape, with more and more accelerators and the end of the X86 domination are also key parameters to be considered in the HPC ecosystem from hardware designers to end-users. The combination of these forces is leading to new architectures for chip development and supercomputer design. SiPearl is a startup formed out of the European Processor Initiative to bring to market the European High-Performance Microprocessor. This keynote looks at the creation and development of a European High performance server processor startup through the lens of SiPearl, discussing the formation of SiPearl, the European ecosystem, trends and influences in semiconductors and high-performance computing and how these have affected product development methodology and the evolution of the company."
-  biography: Craig joined SiPearl in May 2020 as VP Marketing and Business Development. Before moving to SiPearl, Craig was Marketing Director for Marvell Semiconductor’s Server Processor Business Unit in Santa Clara, California. His 20+ years in the Semiconductor industry include sales, marketing, and technical roles with Cavium, AppliedMicro (AMCC), Lockheed-Martin, and Unisys. Craig holds a B.S. in Mathematics from Lewis & Clark College in Portland, Oregon, and an MS in Electrical Engineering from San Diego State University.
-
-- title: High Performance Computing at the University of Innsbruck
-  time: Wed, 5:00 PM - 6:00 PM
-  name: Alexander Ostermann
-  institution: Head of Department of Mathematics, University of Innsbruck
-  photo: ostermann.jpg
-  abstract: Theory, experiment and simulation are the classic pillars of modern natural and engineering sciences. Simulation through computing is a multidisciplinary field where computer science and mathematics meet and strongly interact with the domain sciences. To promote this area, the University of Innsbruck launched the Research Area Scientific Computing more than a decade ago. Fruitful interdisciplinary research is promoted through the exchange of knowledge and information, through the shared use of resources, through the coordination of funding for the maintenance and development of the necessary infrastructure, and through the improvement of science-oriented teaching. In the lecture I will present the research area and show how it is integrated into the Austrian HPC landscape. I will also present some current scientific highlights that have been achieved with high performance computing in Innsbruck. Examples range from astrophysics, plasma, and quantum physics to machine learning applications in the humanities, efficient wastewater treatment, high-resolution weather forecasting, and theoretical chemistry.
-  biography: Alexander Ostermann is professor in Numerical Analysis at the University of Innsbruck (UIBK) since 2002. After obtaining his PhD from UIBK in 1988, he had several visiting positions at the University of Geneva and was associate professor at UIBK. He carries out research on advanced methods for the numerical solution of partial differential equations on modern computer systems. Since 2012 he is also head of the UIBK research area Scientific Computing, an interdisciplinary platform for HPC applications from various fields of science and engineering. He has extensive experience in university research management as former dean, department head, and advisor of the PRACE Council (Partnership for Advanced Computing in Europe).
-
-- title: Towards an Efficient use of Exascale High-Performance Computing
-  time: Thu, 8:45 AM - 10:05 AM
-  name: Modesto Orozco
-  institution: Director of the Life Sciences Department at the Barcelona Supercomputing Center
-  photo: orozco.jpg
-  abstract: New generation Tier-0 computers will cross soon the mythic Exa-Scale barrier. It will be an incredible success for engineering, but as society should ask whether this massive investment is justified by the output provided by these machines, and this forces the E-Science community to find intelligent ways to use the computers to face real problems, whose nature make them difficult to be treated by massively parallel computers. I will summarize in my talk the efforts of the BioExcel Center of Excellence on making a profitable use of Exa-Scale HPC to solve grand challenges in the field of molecular biosimulations. Specific examples will be given on our efforts to fight the Covid19 pandemics.
-  biography: Modesto Orozco obtained his Ph.D. in Chemistry (1990) at the University of Barcelona. Assistant Professor (1989), Professor (1991) and Full Professor (2001) at the Department of Biochemistry at the University of Barcelona. He was visiting professor at Yale University 1991-1993. Since 2004 he is Group Leader at the Institut for Research in Biomedicine, since 2005 Director of the Life Sciences Department at the Barcelona Supercomputing Center, from 2006-2013 was the director of the Joint IRB-BSC Program on Computational Biology, and since 2014 director of the Joint BSC-CRG-IRB Program on Computational Biology. Director Integrative Research Nodes. IRB Barcelona. Awards include the Bruker National Award of the Spanish Biophysics Society, 2010, the ICREA-Academia award, 2011, an ERC Advanced Grant 2012-2017 and an ICREA-Academia award, 2018.
+- title: "TBA"
+  time: TBA
+  name: Douglas Thain
+  institution: University of Notre Dame
+  photo: douglas_thain.jpeg
+  abstract: "TBA"
+  biography: "Professor and Associate Department Chair, Computer Science and Engineering at the University of Notre Dame."

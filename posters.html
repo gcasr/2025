@@ -4,14 +4,26 @@ permalink: /posters
 title: Posters
 ---
 
-TBA
-
-<!-- {% assign wks = site.data.workshops %}
+{% assign posters = site.data.posters %}
 <div class="row">
-    {% for wk in wks %}
-    <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
-        <h3><a href="{{ wk.url }}" target="_blank">{{ wk.name }}</a></h3>
-        {{ wk.abstract }}
+  {% for poster in posters %}
+  <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
+    <h4>{{ poster.title }}</h4>
+    <div>
+      <span style="font-style: italic">Authors: </span>
+      <strong>{{ poster.firstName }} {{ poster.lastName }}</strong>{% if poster.additionalAuthors !=
+      "" %}, {{ poster.additionalAuthors }}{% endif %}
     </div>
-    {% endfor %}
-</div> -->
+    {% if poster.mentors != "" %}
+    <div>
+      <span style="font-style: italic">Mentors: </span>
+      {{ poster.mentors }}
+    </div>
+    {% endif %}
+    <div>
+      <span style="font-style: italic">Institution: </span>
+      {{ poster.institution }}
+    </div>
+  </div>
+  {% endfor %}
+</div>
