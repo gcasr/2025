@@ -2,7 +2,7 @@
   lastName: Hasibul
   additionalAuthors: Joaquin Chung, Tekin Bicer, Rajkumar Kettimuthu
   institution: Argonne National Laboratory
-  mentors: Tekin Bicer(ANL), Rajkumar Kettimuthu(ANL), Tevfik Kosar (Academic-UB)
+  mentors: Tekin Bicer (ANL), Rajkumar Kettimuthu (ANL), Tevfik Kosar (Academic-UB)
   title: Achieving Efficient Data Transfer in NUMA-based Heterogeneous Computing Systems
 - firstName: Mike
   lastName: Rainey
@@ -43,9 +43,9 @@
   title: "CoPPar Tree: Fast and Composable Consistency at Global Scale"
 - firstName: Brian Richard
   lastName: Tauro
-  additionalAuthors: ""
+  additionalAuthors: "Brian Suchy, Simone Campanoni, Peter Dinda, Kyle C. Hale"
   institution: Illinois Institute of Technology
-  mentors: Kyle Hale
+  mentors: ""
   title: "TrackFM: Far-out Compiler Support for a Far Memory World"
 - firstName: Mahad
   lastName: Haider
