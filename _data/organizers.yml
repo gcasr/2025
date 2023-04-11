@@ -5,6 +5,7 @@ roles:
   - Local Organizing Chair
   - Communication Chair
   - Finance Chair
+  - Website Admin
 
 organizers:
   - name: Ioan Raicu
@@ -56,3 +57,8 @@ organizers:
     role: Finance Chair
     institution: University of Chicago
     photo: kyle_chard.jpeg
+
+  - name: Izzet Yildirim
+    role: Website Admin
+    institution: Illinois Tech
+    photo: izzet_yildirim.jpeg

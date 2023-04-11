@@ -165,11 +165,12 @@
     Things
 - firstName: Rui
   lastName: Shi
-  additionalAuthors: S. Ogrenci, A Narayanan, A. Shuping, B.A. Schupbach, F. Fahim,
-    G Pradhan, H. Liu, J Jiang, JR Berlioz, J. Mitrevski, K. Seiya, K.J. Hazelwood,
-    M. Thieme, M.A. Ibrahim, M.B. Valentin, N.V. Tran
+  additionalAuthors: S. Ogrenci, J.M. Arnold, M.R. Austin, J.R. Berlioz, P. Hanlet, K.J. 
+    Hazelwood, J. Hu, M.A. Ibrahim, J. Jang, A. Lewis, H. Liu, J.P. Mitrevski, 
+    V.P. Nagaslaev, A. Narayanan, D.J. Nicklaus, G. Pradhan, A.L. Saewert, B.A. Schupbach, 
+    K. Seiya, A. Shuping, M. Thieme, R.M. Thurman-Keup, N.V. Tran, M.B. Valentin, C. Xu
   institution: Northwestern University
-  mentors: Prof. Seda Ogrenci
+  mentors: Seda Ogrenci
   title: "READS: Real-Time Edge AI for Distributed Systems for Managing Beam Loss
     Deblending"
 - firstName: Tyler
