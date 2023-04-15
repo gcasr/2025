@@ -1,16 +1,16 @@
 Please register at: <https://www.eventbrite.com/e/greater-chicago-area-systems-research-workshop-gcasr-2023-tickets-539777177067>
 
-Early registration deadline: Monday, April 14, 2023
+Early registration deadline: Monday, April 19, 2023
 
 ### Registration Fee
 
 To help make GCASR possible, we charge nominal registration fees:
 
-- Early Registration (Before April 14)
+- Early Registration (Before April 19)
   - Faculty/Non-profit: $50
   - Student: $20
   - For-profit: $100
-- Late/On-site Registration (After April 14 )
+- Late/On-site Registration (After April 19 )
   - Faculty/Non-profit: $75
   - Student: $30
   - For-profit: $150
