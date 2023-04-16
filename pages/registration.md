@@ -1,6 +1,6 @@
 Please register at: <https://www.eventbrite.com/e/greater-chicago-area-systems-research-workshop-gcasr-2023-tickets-539777177067>
 
-Early registration deadline: Monday, April 19, 2023
+Early registration deadline: Wednesday, April 19, 2023
 
 ### Registration Fee
 
