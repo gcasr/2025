@@ -16,6 +16,8 @@ title: Timetable
   }
 </style>
 
+{% assign keynote = 0 %}
+
 <table>
   <colgroup>
     <col width="25%" />
@@ -31,115 +33,30 @@ title: Timetable
       <th>Affiliation</th>
     </tr>
   </thead>
+  {% assign timetable = site.data.timetable %}
   <tbody>
+    {% for t in timetable %}
     <tr>
-      <td>8:40 AM - 9:00 AM</td>
-      <td colspan="3">Introduction</td>
-    </tr>
-    <tr>
-      <td>9:00 AM - 9:50 AM</td>
+      {% if t.isKeynote %}
+      <td>{{ t.time }}</td>
       <td>
-        <a href="/keynotes"><b>Keynote #1:</b></a>
+        {% assign keynote = keynote | plus: 1 %}
+        <a href="/keynotes"><b>Keynote #{{ keynote }}:</b></a>
         <br />
-        Creating and commercializing the leading new platform for hyperscale data analysis
+        {{ t.description }}
       </td>
-      <td>Chris Gladwin</td>
-      <td>Ocient</td>
+      <td>{{ t.speaker }}</td>
+      <td>{{ t.affiliation }}</td>
+      {% elsif t.speaker != "" %}
+      <td>{{ t.time }}</td>
+      <td>{{ t.description }}</td>
+      <td>{{ t.speaker }}</td>
+      <td>{{ t.affiliation }}</td>
+      {% else %}
+      <td>{{ t.time }}</td>
+      <td colspan="3">{{ t.description }}</td>
+      {% endif %}
     </tr>
-    <tr>
-      <td>9:50 AM - 10:50 AM</td>
-      <td colspan="3">Poster Session #1</td>
-    </tr>
-    <tr>
-      <td>10:50 AM - 11:20 AM</td>
-      <td>
-        Compute, Information, Lifetime: Paradigm Changing Opportunities to Improve Computing's
-        Environmental Sustainability
-      </td>
-      <td>Andrew Chien</td>
-      <td>University of Chicago</td>
-    </tr>
-    <tr>
-      <td>11:20 AM - 11:40 AM</td>
-      <td>The Case for Running Data Analytics Workloads on "Wimpy" Nodes</td>
-      <td>Andrew Crotty</td>
-      <td>Northwestern University</td>
-    </tr>
-    <tr>
-      <td>11:40 AM - 12:00 PM</td>
-      <td>Twenty-five Years of HDF5 - A Global Lingua Franca of Data</td>
-      <td>Gerd Heber</td>
-      <td>The HDF Group</td>
-    </tr>
-    <tr>
-      <td>12:00 PM - 12:20 PM</td>
-      <td>Authentication for the Internet of Things</td>
-      <td>Neil Klingensmith</td>
-      <td>Loyola University Chicago</td>
-    </tr>
-    <tr>
-      <td>12:20 PM - 1:20 PM</td>
-      <td colspan="3">Lunch</td>
-    </tr>
-    <tr>
-      <td>1:20 PM - 2:00 PM</td>
-      <td>
-        <a href="/keynotes"><b>Keynote #2:</b></a>
-        <br />
-        Data Intensive Cluster Computing with TaskVine
-      </td>
-      <td>Douglas Thain</td>
-      <td>University of Notre Dame</td>
-    </tr>
-    <tr>
-      <td>2:00 PM - 2:40 PM</td>
-      <td>Simulating High-performance Computing (HPC): The Good, the Bad, and the Opportunities</td>
-      <td>Kevin Brown</td>
-      <td>Argonne National Laboratory</td>
-    </tr>
-    <tr>
-      <td>2:40 PM - 3:40 PM</td>
-      <td colspan="3">Poster Session #2</td>
-    </tr>
-    <tr>
-      <td>3:40 PM - 4:00 PM</td>
-      <td>Adaptive Resource Management for Heterogeneous Computing</td>
-      <td>Zhiling Lan</td>
-      <td>Illinois Tech</td>
-    </tr>
-    <tr>
-      <td>4:00 PM - 4:20 PM</td>
-      <td>Reproducible Notebook Containers</td>
-      <td>Tanu Malik</td>
-      <td>DePaul University</td>
-    </tr>
-    <tr>
-      <td>4:20 PM - 4:40 PM</td>
-      <td>Building on the Tactile Internet</td>
-      <td>Sharief Oteafy</td>
-      <td>DePaul University</td>
-    </tr>
-    <tr>
-      <td>4:40 PM - 5:00 PM</td>
-      <td>Accelerating Scientific Discoveries: Connecting Instruments, Data, and Minds</td>
-      <td>Michael Papka</td>
-      <td>University of Chicago/Argonne National Laboratory</td>
-    </tr>
-    <tr>
-      <td>5:00 PM - 5:20 PM</td>
-      <td>Marius: Learning Models on Large Scale Graphs with a Single Machine</td>
-      <td>Shivaram Venkataraman</td>
-      <td>University of Wisconsin-Madison</td>
-    </tr>
-    <tr>
-      <td>5:20 PM - 5:40 PM</td>
-      <td>Kadabra: Adapting Kademlia for the Decentralized Web</td>
-      <td>Shaileshh Bojja Venkatakrishnan</td>
-      <td>The Ohio State University</td>
-    </tr>
-    <tr>
-      <td>5:40 PM - 6:00 PM</td>
-      <td colspan="3">Closing Remarks</td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>

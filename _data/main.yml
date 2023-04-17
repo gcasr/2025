@@ -25,12 +25,13 @@ contents:
     posters: true
     speakers: false
   program:
-    timetable: true
     keynotes: true
-    workshops: false
-    tutorials: false
     panel: false
     posters: true
+    talks: true
+    timetable: true
+    tutorials: false
+    workshops: false
   meeting:
     registration: true
     venue: true

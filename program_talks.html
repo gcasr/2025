@@ -1,0 +1,22 @@
+---
+layout: calls
+permalink: /talks
+title: Invited Talks
+---
+
+{% assign timetable = site.data.timetable %}
+<div class="row">
+  {% for t in timetable %} {% if t.speaker != "" and t.isKeynote == false %}
+  <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
+    <h4>{{ t.description }}</h4>
+    <div>
+      <span style="font-style: italic">Speaker: </span>
+      <strong>{{ t.speaker }} ({{ t.affiliation }})</strong>
+    </div>
+    <div>
+      <span style="font-style: italic">Abstract: </span>
+      {{ t.abstract }}
+    </div>
+  </div>
+  {% endif %} {% endfor %}
+</div>

@@ -1,0 +1,121 @@
+- time: "8:40 AM - 9:00 AM"
+  description: "Introduction"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
+- time: "9:00 AM - 9:50 AM"
+  description: "Creating and commercializing the leading new platform for hyperscale data analysis"
+  speaker: "Chris Gladwin"
+  affiliation: "Ocient"
+  isKeynote: true
+- time: "9:50 AM - 10:50 AM"
+  description: "Poster Session #1"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
+- time: "10:50 AM - 11:20 AM"
+  description: "Compute, Information, Lifetime: Paradigm Changing Opportunities to Improve Computing's Environmental Sustainability"
+  abstract: |
+    Computing's rapid proliferation has rapidly growing negative environmental impacts. See “What do Computing and DDT have in Common?”, CACM, June 2020. To harvest computing’s benefits, we must go beyond efficiency, considering macroscopic and ecosystem effects to address computing’s environmental sustainability. These are difficult challenges, but we will discuss three paradigm changing opportunities for improvement and some encouraging progress.
+
+    COMPUTE and CARBON EMISSIONS. We can eliminate much of the Scope 2 carbon emissions of computing. We will describe the Zero carbon Cloud, and future visions “Good, Better, and Best!” that reflect the realities of renewable energy markets. Zccloud shows how datacenters can create synergies with the power grid that accelerate decarbonization, rather than retard it. New Paradigm: Computing that is flexible in time and space and responsive to the environment.
+
+    INFORMATION and COOPERATION. We should build intelligent, flexible applications that adapt and follow the availability of zero-carbon power with time scales of hours and days (mesoscale). Doing so requires information on current and future power grid status –renewable generation, power use, and even the “flexing” of other loads. But current grid information is insufficient in metrics, timeliness, spatial resolution, accurate futures. Our RiPiT project is exploring these needs. New Paradigm: Information services that enable intelligent flex and coordinate competition for low-carbon energy, and flexible applications that can exploit them.
+
+    LIFETIME - NAVIGATING DENNARD, CARBON, AND MOORE. Computing has a fast-fashion culture problem, rooted in Moore’s law and rapid improvement. But technology is changing, what continues to drive rapid upgrades that increase e-waste and embodied carbon consumption? Its compute density and power efficiency, but also fashion and software. But there are emerging opportunities for 2nd life and circular economy of hardware. New Paradigm: Create new pathways to extend the lifetime of hardware to reduce e-waste and embodied carbon.
+  speaker: "Andrew Chien"
+  affiliation: "University of Chicago"
+  isKeynote: false
+- time: "11:20 AM - 11:40 AM"
+  description: "The Case for Running Data Analytics Workloads on 'Wimpy' Nodes"
+  abstract: |
+    Research projects will often use the latest hardware to achieve orders-of-magnitude performance improvements on data analytics workloads while ignoring the (usually hefty) associated price tag. Real-world deployments typically follow suit, requiring expensive computing infrastructures that cost even more to power and cool.
+
+    In this talk, I will advocate instead for a radically different approach based on cheap single-board computers (SBCs), which integrate all hardware components necessary for a full-fledged computer into a single circuit board. While others have previously explored similar ideas for computationally simple and easily partitionable use cases (e.g., key-value stores), so-called "wimpy" nodes have traditionally been rejected as unsuitable for more complex workloads. Recent hardware advancements driven by the mobile computing market, however, call this conventional wisdom into question. For example, our microbenchmarks show that one popular SBC, the Raspberry Pi 3B+, offers single-core compute performance that is surprisingly competitive with many server-grade Intel Xeon and ARM-based CPUs at a fraction of the cost and energy consumption.
+
+    To make the case, I will present preliminary results obtained from our prototype SBC cluster, which consists of 24 Raspberry Pi 3B+ nodes. Overall, these results demonstrate up to several orders of magnitude in cost reductions coupled with substantial energy savings when compared to traditional on-premises and cloud deployments, all without a significant increase in absolute runtimes for common data analytics workloads. I will then conclude with a discussion of promising directions for future work.
+  speaker: "Andrew Crotty"
+  affiliation: "Northwestern University"
+  isKeynote: false
+- time: "11:40 AM - 12:00 PM"
+  description: "Twenty-five Years of HDF5 - A Global Lingua Franca of Data"
+  abstract: "Version 1.0.0 of the HDF5 library and file format was released on 6. November 1998. While the technology landscape of 2023 is very different from 1998, the goals and values behind HDF5 have stood the test of time. This presentation reflects on a quarter century of HDF5, its evolving ecosystem, and the challenges ahead."
+  speaker: "Gerd Heber"
+  affiliation: "The HDF Group"
+  isKeynote: false
+- time: "12:00 PM - 12:20 PM"
+  description: "Authentication for the Internet of Things"
+  abstract: |
+    Passwords are a point of weakness in authentication systems. Generating strong passwords, storing them securely, and periodically rotating them have all proven to be stubbornly difficult tasks for humans. Passwords are particularly problematic for Internet-of-Things (IoT) systems, which are ubiquitous, have limited user interfaces, and their wireless communications are easily intercepted. IoT systems like IP cameras, home security monitors, voice assistants, and many others suffer from this problem. As a result, networks of these tiny devices tend to be difficult to manage at scales beyond a handful of devices.
+
+    Zero involvement pairing and authentication (ZIPA) aims to alleviate the pain of network management for IoT devices by authenticating them without use of human generated passwords. Devices authenticating to a ZIPA network validate their legitimacy by proving that they are located in the same physical space (i.e., office, home) at the same time. The devices generate authentication keys from ambient environmental contexts such as electromagnetic radiation, audio, voltage, etc.. Compared to traditional password-based authentication, ZIPA is more secure and easier to use. Because the devices autonomously authenticate themselves, users do not have to manage, remember or enter passwords on individual devices. This enhanced usability also improves system's overall security because it allows the devices to autonomously and periodically rotate keys.
+
+    In this talk, we will present an overview of ZIPA, diving into how devices extract bit sequences from their environment and use correlated bit streams to arrive at a shared key. We will explore theoretical challenges to establishing an unguessable shared key from observations of an ambient environmental signal. We will go on to discuss some practical considerations that make building and deploying these systems challenging.
+  speaker: "Neil Klingensmith"
+  affiliation: "Loyola University Chicago"
+  isKeynote: false
+- time: "12:20 PM - 1:20 PM"
+  description: "Lunch"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
+- time: "1:20 PM - 2:00 PM"
+  description: "Data Intensive Cluster Computing with TaskVine"
+  speaker: "Douglas Thain"
+  affiliation: "University of Notre Dame"
+  isKeynote: true
+- time: "2:00 PM - 2:40 PM"
+  description: "Simulating High-performance Computing (HPC): The Good, the Bad, and the Opportunities"
+  abstract: |
+    High-performance computing (HPC) systems, or supercomputers, are big and complex. They integrate the most advanced computing, memory, storage, and networking technologies to meet the computational needs of our greatest scientific and engineering endeavors. However, designing and configuring these systems is challenging due to the complex inter-operation of tightly coupled components.
+
+    Simulation-based co-design has become the industry standard in evaluating and optimizing supercomputer designs and configurations. These simulation models, while they abstract the full complexities of the real-world, still require a significant amount of time and computing resources to execute. To enable predicting longer timescales, finer-grain activities, and larger-scale phenomena, we require faster model executions. Parallel discrete events simulations (PDES) and techniques such as machine-learning based surrogate modeling can improve time to prediction, but challenges remain due to model scale and complexity. This talk discusses some of the key challenges with PDES in designing large-scale scientific infrastructure, such as integrating multi-scale models, and explores opportunities for cross-disciplinary collaborations.
+  speaker: "Kevin Brown"
+  affiliation: "Argonne National Laboratory"
+  isKeynote: false
+- time: "2:40 PM - 3:40 PM"
+  description: "Poster Session #2"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
+- time: "3:40 PM - 4:00 PM"
+  description: "Adaptive Resource Management for Heterogeneous Computing"
+  abstract: "TBA"
+  speaker: "Zhiling Lan"
+  affiliation: "Illinois Tech"
+  isKeynote: false
+- time: "4:00 PM - 4:20 PM"
+  description: "Reproducible Notebook Containers"
+  abstract: "Notebooks have gained wide popularity in scientific computing. A notebook is both a web-based interactive front-end to program workflows and a lightweight container for sharing code and its output. Reproducing notebooks in different target environments, however, is a challenge. Notebooks do not share the computational environment in which they are executed. Consequently, despite being shareable they are often not reproducible. This talk will introduce reproducible notebook containers. The first part will introduce notebook containers, which include the environment and all data dependencies accessed by the notebook file. The second part will describe the multi version replay problem that arises when multiple versions of a notebook are containerized, and each version must be replayed to reproduce results. We will describe a lineage-based checkpoint-switch-restore system that either checkpoints program state or uses lineage to restore and reuse program state and switch across versions. Our capability to use lineage to identify common computations across versions enables us to consider optimizing multi version replay using an in-memory cache within the container. We will show that reproducible notebook containers with cache reduce overall replay time by 50% on average and avoid storing a large number of checkpoints by sharing common computations."
+  speaker: "Tanu Malik"
+  affiliation: "DePaul University"
+  isKeynote: false
+- time: "4:20 PM - 4:40 PM"
+  description: "Building on the Tactile Internet"
+  abstract: "How do you design a communication infrastructure that sets to defy the speed of light? Developing the Tactile Internet (TI) has brought together experts from a myriad of fields, aiming to compensate for the inevitable latency in long-range communication, to deliver tactile and haptic feedback over a global network. In this talk, we present an architecture that promises to deliver Tactile communication in perceived real-time, focusing on design aspects that yield agile operation. We will explore potential areas of development, future challenges in realizing a scalable and reliable TI infrastructure, and the potential impact on industrial processes. This talk will also address tangent developments in IoT infrastructures that aim to improve Tactile Internet Cognizance."
+  speaker: "Sharief Oteafy"
+  affiliation: "DePaul University"
+  isKeynote: false
+- time: "4:40 PM - 5:00 PM"
+  description: "Accelerating Scientific Discoveries: Connecting Instruments, Data, and Minds"
+  abstract: "DOE user facilities, such as particle accelerators and light sources, have been vital to U.S. scientific research since the 1950s. Serving thousands of researchers each year, these historically significant facilities have experienced a surge in data production due to technological advances. Computational science, supported by institutions like Argonne National Laboratory and its Leadership Computing Facility (ALCF), has been crucial in driving discoveries across various fields using this data. As next-generation and upgraded DOE facilities generate even more data, integration with HPC resources becomes increasingly essential for continued scientific progress. Building on years of experience, Argonne develops software frameworks and deploys complex computing resources that enable the integration of experimental and computational approaches. The ALCF is evolving to meet the growing demands of data-driven science, promoting collaboration between experimental and computational researchers and leveraging DOE user facilities' unique capabilities. This talk underscores the synergy between DOE user facilities and ASCR computing resources as a critical factor in advancing knowledge and uncovering new scientific opportunities."
+  speaker: "Michael Papka"
+  affiliation: "University of Chicago/Argonne National Laboratory"
+  isKeynote: false
+- time: "5:00 PM - 5:20 PM"
+  description: "Marius: Learning Models on Large Scale Graphs with a Single Machine"
+  abstract: "Many real world data sets have inherent structure and this structure can be captured as a graph with vertices representing data items and edges representing relations between them. Applying machine learning (ML) methods on graph structured datasets has applications in a number of domains from drug discovery to recommendation engines. Designing systems for learning on large graphs is challenging because of the large number of model parameters and data access patterns. We identify that current systems are bottlenecked by data movement which results in poor resource utilization and inefficient training. We will describe Marius, a new system for training ML models on billion-edge graphs using just a single machine. Marius is designed as an out-of-core, pipelined, mini-batch training system and includes new buffer-aware data orderings that minimize disk accesses, enabling training on large graphs. Marius is available as an open source project at marius-project.org."
+  speaker: "Shivaram Venkataraman"
+  affiliation: "University of Wisconsin-Madison"
+  isKeynote: false
+- time: "5:20 PM - 5:40 PM"
+  description: "Kadabra: Adapting Kademlia for the Decentralized Web"
+  abstract: "Blockchains have become the catalyst for a growing movement to create a more decentralized Internet. A fundamental operation of applications in a decentralized Internet is data storage and retrieval. As today’s blockchains are limited in their storage functionalities, in recent years a number of peer-to-peer data storage networks have emerged based on the Kademlia distributed hash table protocol. However, existing Kademlia implementations are not efficient enough to support fast data storage and retrieval operations necessary for (decentralized) Web applications. In this paper, we present Kadabra, a decentralized protocol for computing the routing table entries in Kademlia to accelerate lookups. Kadabra is motivated by the multi-armed bandit problem, and can automatically adapt to heterogeneity and dynamism in the network. Experimental results show Kadabra achieving between 15-50% lower lookup latencies compared to state-of-the-art baselines."
+  speaker: "Shaileshh Bojja Venkatakrishnan"
+  affiliation: "The Ohio State University"
+  isKeynote: false
+- time: "5:40 PM - 6:00 PM"
+  description: "Closing Remarks"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
