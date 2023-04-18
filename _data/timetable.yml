@@ -1,3 +1,8 @@
+- time: "8:15 AM - 8:40 AM"
+  description: "Light Breakfast & Coffee"
+  speaker: ""
+  affiliation: ""
+  isKeynote: false
 - time: "8:40 AM - 9:00 AM"
   description: "Introduction"
   speaker: ""
@@ -9,7 +14,10 @@
   affiliation: "Ocient"
   isKeynote: true
 - time: "9:50 AM - 10:50 AM"
-  description: "Poster Session #1"
+  description: |
+    Poster Session #1 <br />
+
+    <small>(with Snacks, Drinks, & Coffee)</small>
   speaker: ""
   affiliation: ""
   isKeynote: false
@@ -74,7 +82,10 @@
   affiliation: "Argonne National Laboratory"
   isKeynote: false
 - time: "2:40 PM - 3:40 PM"
-  description: "Poster Session #2"
+  description: |
+    Poster Session #2 <br/>
+
+    <small>(with Snacks, Drinks, & Coffee)</small>
   speaker: ""
   affiliation: ""
   isKeynote: false
