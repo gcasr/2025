@@ -73,7 +73,7 @@
   affiliation: "University of Notre Dame"
   isKeynote: true
 - time: "2:00 PM - 2:40 PM"
-  description: "Simulating High-performance Computing (HPC): The Good, the Bad, and the Opportunities"
+  description: "Simulating High-performance Computing (HPC): The Good, the Bad, and the Opportunities — <a href='https://www.iit.edu/computer-science/about/FredericaDaremaLectureSeries' target='_blank'>Dr. Frederica Darema Lecture Series in Computer Science</a>"
   abstract: |
     High-performance computing (HPC) systems, or supercomputers, are big and complex. They integrate the most advanced computing, memory, storage, and networking technologies to meet the computational needs of our greatest scientific and engineering endeavors. However, designing and configuring these systems is challenging due to the complex inter-operation of tightly coupled components.
 
