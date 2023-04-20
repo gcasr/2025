@@ -61,7 +61,7 @@
   institution: Illinois Institute of Technology
   mentors: Ioan Raicu
   title: Improving Performance of Proof of Space through the CryptoMemoiz Algorithm
-  session: 1
+  session: 2
 - firstName: Owen
   lastName: McGrath
   additionalAuthors: ""
@@ -80,7 +80,7 @@
   session: 1
 - firstName: Chaoqi
   lastName: Ma
-  additionalAuthors: ""
+  additionalAuthors: "Wu-Hon Leung"
   institution: Illinois Institute of Technology
   mentors: Wu-Hon Leung
   title: Feature Integration from 2n to n2 to nlogn
