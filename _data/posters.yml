@@ -335,3 +335,10 @@
   mentors: Zhiling Lan
   title: "Designing a self-organizing algorithm to schedule HPC workflows"
   session: 2
+- firstName: Jaime
+  lastName: Cernuda
+  additionalAuthors: "Jie Ye, Anthony Kougkas, Xian-He Sun"
+  institution: Illinois Institute of Technology
+  mentors: Xian-He Sun
+  title: "HStream: A Hardware-aware Data Streaming Engine"
+  session: 1
