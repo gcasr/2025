@@ -4,9 +4,12 @@ permalink: /posters
 title: Posters
 ---
 
-{% assign posters = site.data.posters %}
-<div class="row">
-  {% for poster in posters %}
+{% assign sessions = site.data.posters | group_by: "session" %} {% for session in sessions %}
+<div id="session-{{ session.name }}" class="row">
+  <div class="col-sm-12 col-md-12">
+    <h3 style="color: #d67a92">Session #{{ session.name }}</h3>
+  </div>
+  {% assign posters = session.items | sort: "title" %} {% for poster in posters %}
   <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
     <h4>{{ poster.title }}</h4>
     <div>
@@ -27,3 +30,4 @@ title: Posters
   </div>
   {% endfor %}
 </div>
+{% endfor %}
