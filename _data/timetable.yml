@@ -90,10 +90,10 @@
   affiliation: ""
   isKeynote: false
 - time: "3:40 PM - 4:00 PM"
-  description: "Adaptive Resource Management for Heterogeneous Computing"
-  abstract: "TBA"
-  speaker: "Zhiling Lan"
-  affiliation: "Illinois Tech"
+  description: "Marius: Learning Models on Large Scale Graphs with a Single Machine"
+  abstract: "Many real world data sets have inherent structure and this structure can be captured as a graph with vertices representing data items and edges representing relations between them. Applying machine learning (ML) methods on graph structured datasets has applications in a number of domains from drug discovery to recommendation engines. Designing systems for learning on large graphs is challenging because of the large number of model parameters and data access patterns. We identify that current systems are bottlenecked by data movement which results in poor resource utilization and inefficient training. We will describe Marius, a new system for training ML models on billion-edge graphs using just a single machine. Marius is designed as an out-of-core, pipelined, mini-batch training system and includes new buffer-aware data orderings that minimize disk accesses, enabling training on large graphs. Marius is available as an open source project at marius-project.org."
+  speaker: "Shivaram Venkataraman"
+  affiliation: "University of Wisconsin-Madison"
   isKeynote: false
 - time: "4:00 PM - 4:20 PM"
   description: "Reproducible Notebook Containers"
@@ -114,10 +114,10 @@
   affiliation: "University of Chicago/Argonne National Laboratory"
   isKeynote: false
 - time: "5:00 PM - 5:20 PM"
-  description: "Marius: Learning Models on Large Scale Graphs with a Single Machine"
-  abstract: "Many real world data sets have inherent structure and this structure can be captured as a graph with vertices representing data items and edges representing relations between them. Applying machine learning (ML) methods on graph structured datasets has applications in a number of domains from drug discovery to recommendation engines. Designing systems for learning on large graphs is challenging because of the large number of model parameters and data access patterns. We identify that current systems are bottlenecked by data movement which results in poor resource utilization and inefficient training. We will describe Marius, a new system for training ML models on billion-edge graphs using just a single machine. Marius is designed as an out-of-core, pipelined, mini-batch training system and includes new buffer-aware data orderings that minimize disk accesses, enabling training on large graphs. Marius is available as an open source project at marius-project.org."
-  speaker: "Shivaram Venkataraman"
-  affiliation: "University of Wisconsin-Madison"
+  description: "Adaptive Resource Management for Heterogeneous Computing"
+  abstract: "TBA"
+  speaker: "Zhiling Lan"
+  affiliation: "Illinois Tech"
   isKeynote: false
 - time: "5:20 PM - 5:40 PM"
   description: "Kadabra: Adapting Kademlia for the Decentralized Web"
