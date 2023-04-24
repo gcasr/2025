@@ -1,10 +1,6 @@
 - name: Illinois Tech
   image: illinois_tech.png
   link: https://iit.edu
-  
-- name: Argonne National Laboratory
-  image: anl.png
-  link: https://www.anl.gov
 
 - name: DePaul University
   image: depaul.png
@@ -17,7 +13,3 @@
 - name: Northwestern University
   image: northwestern.png
   link: https://www.northwestern.edu
-
-- name: Loyola University Chicago
-  image: loyola.png
-  link: https://www.luc.edu/
