@@ -6,7 +6,7 @@ short-title: GCASR 2023
 # Configure the variable below to customize the eScience website #
 ###################################################################
 
-baseurl:  # replace '_template' below by the conference year
+baseurl: /2023 # replace '_template' below by the conference year
 
 ###################################################################
 # Do NOT change the settings below
