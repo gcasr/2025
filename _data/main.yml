@@ -1,12 +1,12 @@
-edition: 10th # conference edition
+edition: 11th # conference edition
 
 theme: International Conference
 
 # logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
-dates: Monday, April 24, 2023 # conference dates
+dates: Thursday, May 2, 2024 # conference dates
 
-location: Illinois Tech, Chicago # conference location
+location: University of Illinois at Chicago # conference location
 
 description: 
   The Greater Chicago Area Systems Research Workshop (GCASR) is a premier venue for the Chicago and Midwest systems research community. 
@@ -25,15 +25,15 @@ contents:
     posters: true
     speakers: false
   program:
-    keynotes: true
+    keynotes: false
     panel: false
-    posters: true
-    talks: true
-    timetable: true
+    posters: false
+    talks: false
+    timetable: false
     tutorials: false
     workshops: false
   meeting:
-    registration: true
+    registration: false
     venue: true
     virtual: false
     quickstart: false
