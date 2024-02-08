@@ -5,7 +5,7 @@ roles:
   - Local Organizing Chair
   - Communication Chair
   - Finance Chair
-  - Website Admin
+  - Website Chair
 
 organizers:
   - name: Mike Papka
@@ -20,6 +20,6 @@ organizers:
     photo: kyle_chard.jpeg
 
   - name: Valerie Hayot-Sasson
-    role: Website
+    role: Website Chair
     institution: University of Chicago
     photo: hayot.jpeg
