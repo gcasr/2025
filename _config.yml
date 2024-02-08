@@ -1,12 +1,12 @@
 # Site settings
 title: The Greater Chicago Area Systems Research Workshop
-short-title: GCASR 2023
+short-title: GCASR 2024
 
 ###################################################################
 # Configure the variable below to customize the eScience website #
 ###################################################################
 
-baseurl: /2023 # replace '_template' below by the conference year
+baseurl: /2024 # replace '_template' below by the conference year
 
 ###################################################################
 # Do NOT change the settings below
