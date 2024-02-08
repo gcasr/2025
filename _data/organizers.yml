@@ -8,57 +8,18 @@ roles:
   - Website Admin
 
 organizers:
-  - name: Ioan Raicu
+  - name: Mike Papka
     role: General Chair
     institution: Illinois Tech
-    photo: ioan_raicu.jpeg
+    photo: papka.jpeg
 
-  - name: Yanjing Li
-    role: General Chair
-    institution: University of Chicago
-    photo: yanjing_li.jpeg
-
-  - name: Bogdan Nicolae
-    role: Technical Program Chair
-    institution: Argonne National Laboratory
-    photo: bogdan_nicolae.jpeg
-
-  - name: Russ Joseph
-    role: Technical Program Chair
-    institution: Northwestern University
-    photo: russ_joseph.jpeg
-
-  - name: Poornima Nookala
-    role: Poster Chair
-    institution: Intel
-    photo: poornima_nookala.jpeg
-
-  - name: Nazli Siasi
-    role: Poster Chair
-    institution: DePaul University
-    photo: nazli_siasi.jpeg
-
-  - name: Kyle Hale
-    role: Local Organizing Chair
-    institution: Illinois Tech
-    photo: kyle_hale.jpeg
-
-  - name: Scott Pfeiffer
-    role: Local Organizing Chair
-    institution: Illinois Tech
-    photo: scott_pfeiffer.jpeg
-
-  - name: Anthony Kougkas
-    role: Communication Chair
-    institution: Illinois Tech
-    photo: anthony_kougkas.jpeg
-
+ 
   - name: Kyle Chard
     role: Finance Chair
     institution: University of Chicago
     photo: kyle_chard.jpeg
 
-  - name: Izzet Yildirim
-    role: Website Admin
-    institution: Illinois Tech
-    photo: izzet_yildirim.jpeg
+  - name: Valerie Hayot-Sasson
+    role: Website
+    institution: University of Chicago
+    photo: hayot.jpeg
