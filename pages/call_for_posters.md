@@ -1,10 +1,10 @@
 The GCASR Workshop is a premier venue that promotes awareness, collaboration, and synergy among academic and corporate systems researchers in the Chicago and Midwest region. Its participants represent a variety of sub-areas of systems, broadly construed, including operating systems, distributed computing, systems for machine learning, high performance computing, computer architecture, networks, databases, and security.
 
-Faculty members, researchers, postdocs, students, and others with an interest in the workshop topics are invited to submit a poster for presentation at GCASR'23.
+Faculty members, researchers, postdocs, students, and others with an interest in the workshop topics are invited to submit a poster for presentation at GCASR'24.
 
 ### Submission
 
-Submit your poster at: <https://forms.gle/hK94NBdWA7EjMzEt9>
+Submit your poster at: 
 
 ### Submission Requirements
 
