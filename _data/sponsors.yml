@@ -1,15 +1,1 @@
-- name: Illinois Tech
-  image: illinois_tech.png
-  link: https://iit.edu
 
-- name: DePaul University
-  image: depaul.png
-  link: https://depaul.edu
-
-- name: The University of Chicago
-  image: uchicago.png
-  link: https://uchicago.edu
-
-- name: Northwestern University
-  image: northwestern.png
-  link: https://www.northwestern.edu
