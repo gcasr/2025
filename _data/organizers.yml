@@ -1,5 +1,5 @@
 roles:
-  - General Chair
+  - General Chairs
   - Technical Program Chair
   - Poster Chair
   - Local Organizing Chair
@@ -8,11 +8,15 @@ roles:
   - Website Chair
 
 organizers:
-  - name: Mike Papka
-    role: General Chair
-    institution: Illinois Tech
-    photo: papka.jpeg
+  - name: Michael E. Papka
+    role: General Chairs
+    institution: University of Illinois Chicago and Argonne National Laboratory
+    photo: michael_papka.jpg
 
+  - name: Zhiling Lan
+    role: General Chairs
+    institution: University of Illinois Chicago and Argonne National Laboratory
+    photo: zhiling_lan.jpg
  
   - name: Kyle Chard
     role: Finance Chair
@@ -22,4 +26,4 @@ organizers:
   - name: Valerie Hayot-Sasson
     role: Website Chair
     institution: University of Chicago
-    photo: hayot.jpeg
+    photo: valerie_hayot.jpg

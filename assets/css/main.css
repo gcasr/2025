@@ -4464,6 +4464,7 @@ a.list-group-item.active>.badge,
 
 .organizer img {
 	max-width: 10em;
+	max-height: 8em;
 	border-radius: 0.5em;
 }
 
