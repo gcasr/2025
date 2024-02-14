@@ -1,6 +1,6 @@
 roles:
   - General Chairs
-  - Technical Program Chair
+  - Technical Program Chairs
   - Poster Chair
   - Local Organizing Chair
   - Communication Chair
@@ -17,6 +17,12 @@ organizers:
     role: General Chairs
     institution: University of Illinois Chicago and Argonne National Laboratory
     photo: zhiling_lan.jpg
+
+  - name: Luis Pina
+    role: Technical Program Chairs
+    institution: University of Illinois Chicago
+    photo: pina.jpg
+
  
   - name: Kyle Chard
     role: Finance Chair
