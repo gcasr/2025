@@ -4,13 +4,13 @@ Faculty members, researchers, postdocs, students, and others with an interest in
 
 ### Submission
 
-Submit your poster at: 
+Submit your poster at: https://forms.gle/5MFZDXMKmrLbfUDK7
 
 ### Submission Requirements
 
 - Please submit an abstract of no more than 250 words.
 - Posters may cover already-published work.
-- The final posters should be 30x40.
+- We suggest poster size 24x36.
 
 ### Topics of Interest
 
