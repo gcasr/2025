@@ -1,8 +1,7 @@
 roles:
   - General Chairs
   - Technical Program Chairs
-  - Poster Chair
-  - Local Organizing Chair
+  - Poster Chairs
   - Communication Chair
   - Finance Chair
   - Website Chair
@@ -23,6 +22,15 @@ organizers:
     institution: University of Illinois Chicago
     photo: pina.jpg
 
+  - name: Roselyne Tchoua
+    role: Poster Chairs
+    institution: DePaul University
+    photo: roselyne.jpg
+
+  - name: Swann Perarnau
+    role: Poster Chairs
+    institution: Argonne National Laboratory
+    photo: swann.jpg
  
   - name: Kyle Chard
     role: Finance Chair
