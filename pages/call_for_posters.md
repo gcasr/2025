@@ -21,6 +21,7 @@ Topics of interest include, but are not limited to:
 - Networking
 - Distributed Systems
 - Grids/Clouds/Supercomputing (including HPC/MTC/HTC)
+- Edge computing
 - Reconfigurable, Real-time, Cyberphysical, and Embedded Systems
 - Programming Languages and Runtime Systems
 - File and Storage Systems
