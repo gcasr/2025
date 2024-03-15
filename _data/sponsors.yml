@@ -1,3 +1,7 @@
 - name: University of Illinois Chicago
   image: uic.png
   link: https://uic.edu
+
+- name: The University of Chicago
+  image: uchicago.png
+  link: https://uchicago.edu
