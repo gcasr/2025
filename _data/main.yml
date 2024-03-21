@@ -33,7 +33,7 @@ contents:
     tutorials: false
     workshops: false
   meeting:
-    registration: false
+    registration: true
     venue: true
     virtual: false
     quickstart: false
