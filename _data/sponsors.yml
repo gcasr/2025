@@ -6,6 +6,10 @@
   image: uchicago.png
   link: https://uchicago.edu
 
+- name: Northwestern University
+  image: northwestern.png
+  link: https://northwestern.edu/
+
 - name: Discovery Partners Institute
   image: dpi.png
   link: https://dpi.uillinois.edu
