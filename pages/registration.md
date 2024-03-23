@@ -1,4 +1,3 @@
-Registration information will be updated shortly. 
 
 ### Registration Fee
 
