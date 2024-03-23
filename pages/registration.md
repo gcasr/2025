@@ -2,7 +2,7 @@ Registration information will be updated shortly.
 
 ### Registration Fee
 
-To help make GCASR possible, we charge nominal registration fees: (https://www.eventbrite.com/e/gcasr-2024-tickets-861256801277)[https://www.eventbrite.com/e/gcasr-2024-tickets-861256801277]
+To help make GCASR possible, we charge nominal registration fees: [https://www.eventbrite.com/e/gcasr-2024-tickets-861256801277](https://www.eventbrite.com/e/gcasr-2024-tickets-861256801277)
 
 - Early Registration (Before April 19)
   - Faculty/Non-profit: 50$
