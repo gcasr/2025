@@ -17,3 +17,7 @@
 - name: Northern Illinois University
   image: niu.png
   link: https://niu.edu
+
+- name: DePaul University
+  image: depaul.png
+  link: https://depaul.edu
