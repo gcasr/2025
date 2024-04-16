@@ -1,236 +1,236 @@
 - Authors: Yuta Nakamura, Iyad Kanj, Tanu Malik
   Institution: 'DePaul University '
-  Session: '1'
+  Session: 1
   Title: Efficient Differencing of System-level Provenance Graphs
 - Authors: Thanh Son Phung; Douglas Thain
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows on
     Opportunistic Resources
 - Authors: Zhongtang Luo; Adithya Bhat; Kartik Nayak; Aniket Kate
   Institution: Purdue University; Duke University; Supra Research
-  Session: '1'
+  Session: 1
   Title: Attacking and Improving the Tor Directory Protocol
 - Authors: Jianting Zhang, Zhongtang Luo, Raghavendra Ramesh, Aniket Kate
   Institution: Purdue University
-  Session: '1'
+  Session: 1
   Title: Sharding SMR with Optimal-size Shards for Highly Scalable Blockchains
 - Authors: Seongha Park, Yongho Kim, Kazutomo Yoshii, Pete Beckman, Swann Perarnau
   Institution: Argonne National Laboratory
-  Session: '1'
+  Session: 1
   Title: Resource Management for Integrated Edge-to-HPC Workloads
 - Authors: Thanh Son Phung, Douglas Thain
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Adaptive Task-Oriented Resource Allocation for  Large Dynamic Workflows on
     Opportunistic Resources
 - Authors: Lingzhi Wang, Xiangmin Shen, Jiahui Wang, Yan Chen, Zhenyuan Li
   Institution: Northwestern Unversity
-  Session: '1'
+  Session: 1
   Title: 'From Atoms to Mansions: Automatic Red Team Emulation using Large Language
     Model'
 - Authors: Lingzhi Wang, Xiangmin Shen, Weijian Li, Zhenyuan Li, R. Sekar, Yan Chen
   Institution: Northwestern University
-  Session: '1'
+  Session: 1
   Title: 'Captain: Combating Alarm Fatigue in PIDS via Adaptive Configuration Learning'
 - Authors: Barry Sly-Delgado, Douglas Thain
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Reshaping High Energy Physics Applications for Near-Interactive Execution
     Using TaskVine
 - Authors: Mengyu Liu
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Attack Resilience in Cyber-Physical System
 - Authors: Nkechi Jennifer Akinwale, Justin Turnau, Seokki Lee (Phd)
   Institution: University of Cincinnati, OH
-  Session: '1'
+  Session: 1
   Title: Leveraging Data Provenance for Explainable Machine Learning (ML) Model Predictions
 - Authors: Ziyi Guo, Jiashui Wang, Yan Chen
   Institution: Northwestern University
-  Session: '1'
+  Session: 1
   Title: 'SWFuzz: Structure-sensitive Wasm Fuzz'
 - Authors: Jin Zhou
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Import Hoisting for Serverless Libraries
 - Authors: Zhong Zheng, Zhiling Lan, Michael E. Papka
-  Institution: UIC, ANL
-  Session: '1'
+  Institution: University of Illinois Chicago, Argonne National Laboratory
+  Session: 1
   Title: 'More for Less: The Integration of Capability and Capacity Computing'
 - Authors: Samiha Shimmi, Ashiqur Rahman, Mohan Gadde, Hamed Okhravi, Mona Rahimi
   Institution: Northern Illinois University (author 1,2,3,5), MIT Lincoln Laboratory
     (author 4)
-  Session: '1'
+  Session: 1
   Title: 'VulSim: Leveraging Similarity of Multi-Dimensional Neighbor Embeddings for
     Vulnerability Detection and Explainability'
 - Authors: Hamed Barzamini and Mona Rahimi
   Institution: Northern Illinois University
-  Session: '1'
+  Session: 1
   Title: 'W-AIS: Advancing Safety and Maturity in Autonomous Driving through Requirements
     Engineering for Multimodal Large Language Models'
 - Authors: Kevin A. Brown, Christopher Carothers, Zhiling Lan, Kai Shu, Tanwi Mallick,
     Xin Wang, Elkin Cruz-Camacho, Xiongxiao Xu, Robert B. Ross
   Institution: Argonne National Laboratory, Illinois Institute of Technology, Rensselaer
     Polytechnic Institute, University of Illinois Chicago
-  Session: '1'
+  Session: 1
   Title: 'The Kronos Project: Hybrid Parallel Discrete Event Simulations'
 - Authors: Keith Bateman, Neeraj Rajesh, Bodan Nicolae, Franck Cappello, Anthony Kougkas,
     Xian-He Sun
   Institution: Illinois Institute of Technology
-  Session: '1'
+  Session: 1
   Title: 'DTIO: A DataTask I/O Library'
 - Authors: Jie Ye
   Institution: Illinois Institute of Technology
-  Session: '1'
+  Session: 1
   Title: 'Viper: A High-Performance I/O Framework for Transferring Deep Neural Network
     Models'
 - Authors: Laura Serrano Velazquez, Nik Sultana
   Institution: 'Illinois Institute of Technology '
-  Session: '1'
+  Session: 1
   Title: Development, Implementation and Deployment of an Educational Platform  for
     the Teaching of Protocols and Network Programming using P4
 - Authors: Hal Brynteson1, Athena Angara1, Fatima Jassim1, Victor Mateevitsi2, Silvio
     Rizzi2, Nicola Ferrier2, Michael E. Papka1,2
   Institution: 1. University of Illinois Chicago 2. Argonne National Laboratory
-  Session: '1'
+  Session: 1
   Title: A Systematic Approach to Advance the Understanding of Digital Twin Technologies
 - Authors: ' Donghyun Sohn, Kelly Jiang'
   Institution: Northwestern University
-  Session: '1'
+  Session: 1
   Title: 'Alchemy: A Query Optimization Framework for Oblivious SQL'
 - Authors: Md Saiful Islam, Douglas Thain
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Toward High-Performance Simulation of 1000 Drones
 - Authors: Colin Thomas, Douglas Thain
   Institution: University of Notre Dame
-  Session: '1'
+  Session: 1
   Title: Leveraging Intermediate Data Management With Parsl/TaskVine
 - Authors: Neal Conrad, Yongho Kim, Francisco Lozano, Sean Shahkarami, Rajesh Sankaran,
     Nicola Ferrier, Pete Beckman
   Institution: Argonne National Laboratory, Northwestern University
-  Session: '1'
+  Session: 1
   Title: Web Visualization Tools for AI at the Edge
 - Authors: Yash Kurkure, Micheal Papka, Zhilling Lan
   Institution: 'Argonne National Laboratory, Argonne National Laboratory and University
     of Illinois Chicago, University of Illinois Chicago '
-  Session: '1'
+  Session: 1
   Title: Digital twin for smart resource management in HPC
 - Authors: Xin Wang, Kevin A. Brown, Robert B. Ross, Christopher D. Carothers, Zhiling
     Lan
   Institution: University of Illinois Chicago
-  Session: '2'
+  Session: 2
   Title: 'Towards Efficient Network Interference Analysis: A Multi-Fidelity Modeling
     Approach for Multi-Traffic Simulation'
 - Authors: Yuanjian Liu, Sheng Di, Kyle Chard, Ian Foster
   Institution: University of Chicago
-  Session: '2'
+  Session: 2
   Title: 'Ocelot:'
 - Authors: Neeraj Rajesh, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: Using Language Models for Cache Eviction in Modern Computing Systems
 - Authors: Luke Logan, Anthony Kougkas, Xian-He Sun
-  Institution: Illinois Tech
-  Session: '2'
+  Institution: Illinois Institute of Technology
+  Session: 2
   Title: 'Changeling: A Tuneable, Upgradeable, and Dynamic Storage Semi-Microkernel'
 - Authors: Ahmedur Rahman Shovon, Sidharth Kumar
   Institution: University of Illinois Chicago
-  Session: '2'
+  Session: 2
   Title: Accelerating Iterative Joins Toward a Modern Datalog Backend on GPU
 - Authors: Tanwi Mallick, Mariam Kiran, Bashir Mohammed, Prasanna Balaprakash
-  Institution: 'Argonne National Laboratory '
-  Session: '2'
+  Institution: Argonne National Laboratory
+  Session: 2
   Title: Traffic Forecasting in ESnet Using Dynamic Graph Neural Networks
 - Authors: Xiongxiao Xu, Zhiling Lan, Kai Shu
   Institution: Illinois Institute of Technology, University of Illinois Chicago
-  Session: '2'
+  Session: 2
   Title: Exploring Machine Learning Models with Spatial-Temporal Information for Interconnect
     Network Traffic Forecasting
 - Authors: Matthew T. Dearing, Zhiling Lan, Xingfu Wu, Valerie E. Taylor
   Institution: University of Illinois Chicago
-  Session: '2'
+  Session: 2
   Title: An Autonomous Self-Learning Pipeline for Generating Parallel Scientific Code
     for AuroraGPT
 - Authors: Xiling Li
   Institution: Northwestern University
-  Session: '2'
+  Session: 2
   Title: 'RESCU-SQL: Scalable and Secure Multi-Party Querying over Untrusted Cloud
     Servers'
 - Authors: Meng Tang, Nathan R. Tallent, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: Optimizing Workflow Performance by Elucidating Semantic Data Flow
 - Authors: Lucas Raicu, Stefan Donisa, Lucas Ciobanu, Lan Nguyen, Ioan Raicu
   Institution: Glenbrook South High School, John Hersey High School, Lisle High School,
     Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: 'CRYPTEX: fine-grained CRYPTocurrency datasets EXploration '
 - Authors: Jaime Cernuda, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: 'ChronoTick: Taming Wall Clock Errors for Distributed Ordering'
 - Authors: Riccardo Strina, Ian Di Dio Lavore, Marco Domenico Santambrogio, Michael
     Papka, Zhiling Lan
-  Institution: University of Illinois at Chicago, Politecnico di Milano
-  Session: '2'
+  Institution: University of Illinois Chicago, Politecnico di Milano
+  Session: 2
   Title: Performance and Power Evaluation of Multi-GPU NCCL Communication with Unified
     Memory
 - Authors: Tessa Hall and Stefan Mitsch
   Institution: DePaul University
-  Session: '2'
+  Session: 2
   Title: Counterexamples in Cyber-Physical Systems Theorem Proving - Falsification
     of Hybrid Discrete-Continuous Programs
 - Authors: Ke Fan, Sidharth Kumar
-  Institution: University of Illinois at Chicago
-  Session: '2'
+  Institution: University of Illinois Chicago
+  Session: 2
   Title: Configurable Algorithms for All-to-all Collectives
 - Authors: Ke Fan, Sidharth Kumar
-  Institution: University of Illinois at Chicago
-  Session: '2'
+  Institution: University of Illinois Chicago
+  Session: 2
   Title: Two-phase IO Enabling Large-scale Introspection
 - Authors: Zhiling Lan, Sourav Medya, Pietro Lodi Rizzini
   Institution: University of Illinois Chicago
-  Session: '2'
+  Session: 2
   Title: Predictive Modeling of Application Runtime in Dragonfly Systems using Deep
     Neural Networks
 - Authors: Shixiong Jiang, Fanxin Kong
   Institution: University of Notre Dame
-  Session: '2'
+  Session: 2
   Title: Vulnerability Analysis for Safe Learning-Enabled Cyber-Physical Systems​
 - Authors: Weizhe Xu
   Institution: University of Notre Dame
-  Session: '2'
+  Session: 2
   Title: Assuring LLM-Enabled Cyber-Physical Systems
 - Authors: Anagha Tiwari
   Institution: Argonne National Laboratory, University of Illinois at Urbana Champaign
-  Session: '2'
+  Session: 2
   Title: Using Edge Computing to Automate Rideshare Vehicle Detection
 - Authors: Matt Baughman, Ian Foster, and Kyle Chard
   Institution: University of Chicago
-  Session: '2'
+  Session: 2
   Title: 'Corralling the Computing Continuum:  Mobilizing Modern Distributed Resources
     for Machine Learning and Accessible Computing'
 - Authors: Akshata Tiwari
   Institution: Argonne National Laboratory, University of Illinois Urbana-Champaign
-  Session: '2'
+  Session: 2
   Title: Using Advanced Machine Learning Methods and Computational Tools for Battery
     Technology Patent Classification and Analysis of the Employment Impact of Electric
     Vehicle Supply Equipments
 - Authors: Lan Nguyen, Ioan Raicu
   Institution: Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: 'XBench: A Distributed Benchmarking Suite for Time-Series Storage Systems'
 - Authors: 'Alessandro Martinolli '
   Institution: University of Illinois at Chicago, Politecnico di Milano
-  Session: '2'
+  Session: 2
   Title: Exploring the Effects of GPU Frequency Tuning and Power Capping
 - Authors: Melanie Cornelius
   Institution: University of Illinois at Chicago
-  Session: '2'
+  Session: 2
   Title: Making the Case for BPF in HPC
 - Authors: Adarsh Agrawal, Abhishek Sharma, Jamison Kerney, Lan Nguyen, Ioan Raicu
   Institution: Illinois Institute of Technology
-  Session: '2'
+  Session: 2
   Title: Optimizing Proof of Work through Memoization
