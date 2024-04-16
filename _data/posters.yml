@@ -1,344 +1,192 @@
-- firstName: Jamil
-  lastName: Hasibul
-  additionalAuthors: Joaquin Chung, Tekin Bicer, Rajkumar Kettimuthu
-  institution: Argonne National Laboratory
-  mentors: Tekin Bicer (ANL), Rajkumar Kettimuthu (ANL), Tevfik Kosar (Academic-UB)
-  title: Achieving Efficient Data Transfer in NUMA-based Heterogeneous Computing Systems
-  session: 1
-- firstName: Mike
-  lastName: Rainey
-  additionalAuthors: Simone Campanoni, Peter Dinda, Umut Acar, Yian Su, Nick Wanninger,
-    Jasper Liang, Nadharm Dhiantravan
-  institution: Carnegie Mellon University
-  mentors: ""
-  title: Automatic granularity control for fork-join parallelism on multicore systems
-  session: 2
-- firstName: Aniket
-  lastName: Modi
-  additionalAuthors: Moaz Reyad, Tanu Malik, Ashish Gehani
-  institution: DePaul University
-  mentors: Tanu Malik
-  title: Querying Container Provenance
-  session: 1
-- firstName: Raza
-  lastName: Ahmad
-  additionalAuthors: Naga Nithin Manne, Tanu Malik
-  institution: DePaul University
-  mentors: ""
-  title: Reproducible Notebook Containers using Application Virtualization
-  session: 2
-- firstName: Rohan
-  lastName: Tikmany
-  additionalAuthors: Tanu Malik
-  institution: DePaul University
-  mentors: ""
-  title: I/O Specialized Containerization for Data Intensive
-  session: 1
-- firstName: "Yuta "
-  lastName: Nakamura
-  additionalAuthors: Tanu Malik, Iyad Kanj, Ashish Gehani
-  institution: "DePaul University "
-  mentors: ""
-  title: Provenance-based Workflow Diagnostics Using Program Specification
-  session: 2
-- firstName: Xincheng
-  lastName: Yang
-  additionalAuthors: ""
-  institution: Illinois Institute of Technology
-  mentors: Kyle Hale
-  title: "CoPPar Tree: Fast and Composable Consistency at Global Scale"
-  session: 1
-- firstName: Brian Richard
-  lastName: Tauro
-  additionalAuthors: "Brian Suchy, Simone Campanoni, Peter Dinda, Kyle C. Hale"
-  institution: Illinois Institute of Technology
-  mentors: ""
-  title: "TrackFM: Far-out Compiler Support for a Far Memory World"
-  session: 2
-- firstName: Mahad
-  lastName: Haider
-  additionalAuthors: Jacklyn Mcaninch, Alexandru Iulian Orhean
-  institution: Illinois Institute of Technology
-  mentors: Ioan Raicu
-  title: Improving Performance of Proof of Space through the CryptoMemoiz Algorithm
-  session: 2
-- firstName: Owen
-  lastName: McGrath
-  additionalAuthors: ""
-  institution: Illinois Institute of Technology
-  mentors: Ioan Raicu
-  title: "Evaluating the Suitability of Intel oneTBB for Fine-Grained Parallelism "
-  session: 2
-- firstName: "Tanmay "
-  lastName: Anand
-  additionalAuthors: Mahad Haider, Lan Nguyen, Gabriel Bryk, Jacklyn Mcaninch, Neil
-    John, Ryan Mcphail, Faith Busche, Alexandru Iulian Orhean, Nhan Hoang, Mohamad
-    Fares
-  institution: Illinois Institute of Technology
-  mentors: Ioan Raicu
-  title: "MEMO: Power Efficient High-throughput Blockchain using Memoization"
-  session: 1
-- firstName: Chaoqi
-  lastName: Ma
-  additionalAuthors: "Wu-Hon Leung"
-  institution: Illinois Institute of Technology
-  mentors: Wu-Hon Leung
-  title: Feature Integration from 2n to n2 to nlogn
-  session: 2
-- firstName: Lan
-  lastName: Nguyen
-  additionalAuthors: ""
-  institution: Illinois Institute of Technology
-  mentors: Ioan Raicu
-  title: Accelerated Performance in Time-Series Key/Value Storage Systems
-  session: 1
-- firstName: Atharva
-  lastName: Dongare
-  additionalAuthors: Sara Ataullah, Sonal Gaikwad
-  institution: Illinois Institute of Technology
-  mentors: Ioan Raicu
-  title: Comparative Analysis of Cryptographic Hashing Algorithms for Blockchains
-  session: 2
-- firstName: Shuichi
-  lastName: Maruyama
-  additionalAuthors: Wu-Hon Francis Leung, Chaoqi Ma
-  institution: Illinois Institute of Technology
-  mentors: Wu-Hon Francis Leung
-  title: "Bricks: A Configurable Coordination Service with Multiple Consistency Models"
-  session: 1
-- firstName: Alexandru Iulian
-  lastName: Orhean
-  additionalAuthors: Lavanya Ramakrishnan, Kyle Chard, Ioan Raicu
-  institution: Illinois Institute of Technology
-  mentors: ""
-  title: "Towards Efficient Data Indexing and Searching in Distributed High-End Computing Systems"
-  session: 2
-- firstName: Jamison
-  lastName: Kerney
-  additionalAuthors: Ioan Raicu, Kyle Chard
-  institution: Illinois Institute of Technology
-  mentors: Ioan Riacu
-  title: Finegrained Parallelism in Parsl
-  session: 1
-- firstName: H.E.
-  lastName: Greenblatt
-  additionalAuthors: Nik Sultana
-  institution: Illinois Institute of Technology
-  mentors: Nik Sultana
-  title: A Network Simulation of Distributed Light Propagation Modeling
-  session: 2
-- firstName: Conghao
-  lastName: Liu
-  additionalAuthors: Kyle Hale
-  institution: Illinois Institute of Technology
-  mentors: Kyle Hale
-  title: "Rust_Arkouda:extending Arkouda to distributed an heteogenous environment for Exploratory data analysis"
-  session: 1
-- firstName: Jiya
-  lastName: Su
-  additionalAuthors: Peng Jiang, Rujia Wang
-  institution: Illinois Institute of Technology
-  mentors: Rujia Wang
-  title: "PIMMiner: A High-performance PIM Architecture-aware Graph Mining Framework"
-  session: 2
-- firstName: Griffin
-  lastName: Dube
-  additionalAuthors: ""
-  institution: Northwestern University
-  mentors: Peter Dinda
-  title: Modern Compilation of a High Level Parallel Language to Potentially Heterogeneous Hardware
-  session: 1
-- firstName: Nick
-  lastName: Wanninger
-  additionalAuthors: ""
-  institution: Northwestern University
-  mentors: Peter Dinda
-  title: Getting a Handle on Unmanaged Memory
-  session: 2
-- firstName: Kirill
-  lastName: Nagaitsev
-  additionalAuthors: ""
-  institution: Northwestern University
-  mentors: Peter Dinda
-  title: Eliminating Hardware Interrupts with Dispersed Interrupt Polling
-  session: 1
-- firstName: Essien
-  lastName: Taylor
-  additionalAuthors: Russ Joseph
-  institution: Northwestern University
-  mentors: Russ Joseph
-  title: Modeling Timing Errors in Pipelines
-  session: 2
-- firstName: Vijay
-  lastName: Kandiah
-  additionalAuthors: Scott Peverelle, Mahmoud Khairy, Junrui Pan, Amogh Manjunath,
-    Timothy G. Rogers, Tor M. Aamodt, Nikos Hardavellas
-  institution: Northwestern University
-  mentors: Nikos Hardavellas
-  title: "AccelWattch: A Power Modeling Framework for Modern GPUs"
-  session: 1
-- firstName: Michael
-  lastName: Polinski
-  additionalAuthors: John Lange, Peter Dinda, Robert Dick, Friedrich Doku, Elena Fabian,
-    Nick Gordon, Peizhi Liu, Madhav Suresh, Carson Surmeier, Nick Wanninger
-  institution: Northwestern University
-  mentors: Peter Dinda
-  title: "Toward a User-centered Distributed Privacy Backplane for the Internet of Things"
-  session: 2
-- firstName: Rui
-  lastName: Shi
-  additionalAuthors: S. Ogrenci, J.M. Arnold, M.R. Austin, J.R. Berlioz, P. Hanlet, K.J.
-    Hazelwood, J. Hu, M.A. Ibrahim, J. Jang, A. Lewis, H. Liu, J.P. Mitrevski,
-    V.P. Nagaslaev, A. Narayanan, D.J. Nicklaus, G. Pradhan, A.L. Saewert, B.A. Schupbach,
-    K. Seiya, A. Shuping, M. Thieme, R.M. Thurman-Keup, N.V. Tran, M.B. Valentin, C. Xu
-  institution: Northwestern University
-  mentors: Seda Ogrenci
-  title: "READS: Real-Time Edge AI for Distributed Systems for Managing Beam Loss Deblending"
-  session: 1
-- firstName: Tyler
-  lastName: Skluzacek
-  additionalAuthors: ""
-  institution: "Oak Ridge National Lab "
-  mentors: ""
-  title: Microextractor workflows for efficient and flexible metadata extraction
-  session: 2
-- firstName: Nanda
-  lastName: Velugoti
-  additionalAuthors: Nathan Tallent, Joseph Manzano, Kyle Hale
-  institution: Pacific Northwest National Laboratory and Illinois Institute of Technology
-  mentors: ""
-  title: Predicting and alleviating bottlenecks in Hybrid CPU and Memory Architectures
-  session: 1
-- firstName: Jianting
-  lastName: Zhang
-  additionalAuthors: Aniket Kate
-  institution: Purdue University
-  mentors: ""
-  title: A Fair Cross-shard Consensus in Distributed Sharding Systems
-  session: 2
-- firstName: Wenyi
-  lastName: Wang
-  additionalAuthors: ""
-  institution: The University of Chicago
-  mentors: Yanjing Li
-  title: "UDSHMEM: a parallel programing library for large graph computing accelerators"
-  session: 1
-- firstName: Wenyi
-  lastName: Wang
-  additionalAuthors: ""
-  institution: The University of Chicago
-  mentors: Ian Foster, Kyle Chard, Ioan Raicu
-  title: "Exploring GNU Openmp Tasking performance bottleneck for extremely fine-grained task parallelism"
-  session: 2
-- firstName: Tapan
-  lastName: Srivastava
-  additionalAuthors: ""
-  institution: University of Chicago
-  mentors: Raul Castro Fernandez
-  title: Saving Money for Analytical Workloads in the Cloud
-  session: 1
-- firstName: Greg
-  lastName: Pauloski
-  additionalAuthors: ""
-  institution: University of Chicago
-  mentors: Kyle Chard
-  title: "Accelerating Communications in Federated Applications with Transparent Object Proxies"
-  session: 2
-- firstName: Tejas
-  lastName: Kannan
-  additionalAuthors: ""
-  institution: University of Chicago
-  mentors: Hank Hoffmann
-  title: Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors
-  session: 1
-- firstName: Pouya
-  lastName: Mahdi Gholami
-  additionalAuthors: ""
-  institution: University of Chicago
-  mentors: "Henry (Hank) Hoffmann "
-  title: "SEASONS: Signal and Energy Aware Sensing on iNtermittent Systems"
-  session: 2
-- firstName: Jianru
-  lastName: Ding
-  additionalAuthors: ""
-  institution: University of Chicago
-  mentors: Dr. Henry Hoffmann
-  title: "DPS: Adaptive Power Management for Overprovisioned Systems"
-  session: 1
-- firstName: Arham
-  lastName: Khan
-  additionalAuthors: Sheng Di
-  institution: University of Chicago
-  mentors: Ian Foster, Kyle Chard
-  title: "Efficient Configuration Search for Error-bounded Lossy Compression with Bayesian Optimization"
-  session: 2
-- firstName: Nathaniel
-  lastName: Hudson
-  additionalAuthors: Matt Baughman, Kyle Chard, Ian Foster
-  institution: University of Chicago
-  mentors: Kyle Chard, Ian Foster
-  title: Balancing federated learning trade-offs for heterogeneous environments
-  session: 1
-- firstName: Matt
-  lastName: Baughman
-  additionalAuthors: Nathaniel Hudson, Ian Foster, Kyle Chard
-  institution: University of Chicago
-  mentors: Ian Foster, Kyle Chard
-  title: Towards Smart Aggregation in Serverless Federated Learning
-  session: 2
-- firstName: Matteo
-  lastName: Del Grossi
-  additionalAuthors: ""
-  institution: University of Illinois Chicago
-  mentors: Ian Kash, Michael E. Papka
-  title: "Finding a Home for the Small Jobs on some of the World's Biggest Computers"
-  session: 1
-- firstName: Neeraj
-  lastName: Rajesh
-  additionalAuthors: "Keith Bateman, Anthony Kougkas, Xian-He Sun, Jean Luca Bez, Suren Byna"
-  institution: Illinois Institute of Technology
-  mentors: Anthony Kougkas, Xian-He Sun
-  title: "TunIO: A Learning-Driven I/O Stack Tuning Framework for HPC"
-  session: 1
-- firstName: Luke
-  lastName: Logan
-  additionalAuthors: "Xian-He Sun, Anthony Kougkas"
-  institution: Illinois Institute of Technology
-  mentors: Anthony Kougkas
-  title: "MegaMmap: Expanding Distributed Shared Memory to Storage for Data-Intensive Workloads"
-  session: 1
-- firstName: Izzet
-  lastName: Yildirim
-  additionalAuthors: "Hariharan Devarajan, Anthony Kougkas, Xian-He Sun, Kathryn Mohror"
-  institution: Illinois Institute of Technology
-  mentors: Hariharan Devarajan, Anthony Kougkas
-  title: "WisIO: Automated I/O Bottleneck Detection for Large-Scale HPC Workloads with Multi-Perspective Views"
-  session: 1
-- firstName: Jie
-  lastName: Ye
-  additionalAuthors: "Jaime Cernuda, Bogdan Nicolae, Anthony Kougkas, Xian-He Sun"
-  institution: Illinois Institute of Technology
-  mentors: Bogdan Nicolae, Anthony Kougkas, Xian-He Sun
-  title: "Viper: A High-Performance I/O Framework for Transparently Updating, Storing, and Transferring Deep Neural Network Models"
-  session: 2
-- firstName: Meng
-  lastName: Tang
-  additionalAuthors: "Anthony Kougkas, Xian-He Sun"
-  institution: Illinois Institute of Technology
-  mentors: Anthony Kougkas, Xian-He Sun
-  title: "Data Lifecycle Analysis: Improving Workflow Task and Data Coordination through Semantic-Rich Data Formats"
-  session: 2
-- firstName: Matthew
-  lastName: Dearing
-  additionalAuthors: "Zhiling Lan"
-  institution: Illinois Institute of Technology
-  mentors: Zhiling Lan
-  title: "Designing a self-organizing algorithm to schedule HPC workflows"
-  session: 2
-- firstName: Jaime
-  lastName: Cernuda
-  additionalAuthors: "Jie Ye, Anthony Kougkas, Xian-He Sun"
-  institution: Illinois Institute of Technology
-  mentors: Xian-He Sun
-  title: "HStream: A Hardware-aware Data Streaming Engine"
-  session: 1
+- Authors: Yuta Nakamura, Iyad Kanj, Tanu Malik
+  Institution(s): 'DePaul University '
+  Poster Title: Efficient Differencing of System-level Provenance Graphs
+- Authors: Thanh Son Phung; Douglas Thain
+  Institution(s): University of Notre Dame
+  Poster Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows
+    on Opportunistic Resources
+- Authors: Zhongtang Luo; Adithya Bhat; Kartik Nayak; Aniket Kate
+  Institution(s): Purdue University; Duke University; Supra Research
+  Poster Title: Attacking and Improving the Tor Directory Protocol
+- Authors: Jianting Zhang, Zhongtang Luo, Raghavendra Ramesh, Aniket Kate
+  Institution(s): Purdue University
+  Poster Title: Sharding SMR with Optimal-size Shards for Highly Scalable Blockchains
+- Authors: Seongha Park, Yongho Kim, Kazutomo Yoshii, Pete Beckman, Swann Perarnau
+  Institution(s): Argonne National Laboratory
+  Poster Title: Resource Management for Integrated Edge-to-HPC Workloads
+- Authors: Thanh Son Phung, Douglas Thain
+  Institution(s): University of Notre Dame
+  Poster Title: Adaptive Task-Oriented Resource Allocation for  Large Dynamic Workflows
+    on Opportunistic Resources
+- Authors: Lingzhi Wang, Xiangmin Shen, Jiahui Wang, Yan Chen, Zhenyuan Li
+  Institution(s): Northwestern Unversity
+  Poster Title: 'From Atoms to Mansions: Automatic Red Team Emulation using Large
+    Language Model'
+- Authors: Lingzhi Wang, Xiangmin Shen, Weijian Li, Zhenyuan Li, R. Sekar, Yan Chen
+  Institution(s): Northwestern University
+  Poster Title: 'Captain: Combating Alarm Fatigue in PIDS via Adaptive Configuration
+    Learning'
+- Authors: Barry Sly-Delgado, Douglas Thain
+  Institution(s): University of Notre Dame
+  Poster Title: Reshaping High Energy Physics Applications for Near-Interactive Execution
+    Using TaskVine
+- Authors: Mengyu Liu
+  Institution(s): University of Notre Dame
+  Poster Title: Attack Resilience in Cyber-Physical System
+- Authors: Nkechi Jennifer Akinwale, Justin Turnau, Seokki Lee (Phd)
+  Institution(s): University of Cincinnati, OH
+  Poster Title: Leveraging Data Provenance for Explainable Machine Learning (ML) Model
+    Predictions
+- Authors: Ziyi Guo, Jiashui Wang, Yan Chen
+  Institution(s): Northwestern University
+  Poster Title: 'SWFuzz: Structure-sensitive Wasm Fuzz'
+- Authors: Jin Zhou
+  Institution(s): University of Notre Dame
+  Poster Title: Import Hoisting for Serverless Libraries
+- Authors: Zhong Zheng, Zhiling Lan, Michael E. Papka
+  Institution(s): UIC, ANL
+  Poster Title: 'More for Less: The Integration of Capability and Capacity Computing'
+- Authors: Samiha Shimmi, Ashiqur Rahman, Mohan Gadde, Hamed Okhravi, Mona Rahimi
+  Institution(s): Northern Illinois University (author 1,2,3,5), MIT Lincoln Laboratory
+    (author 4)
+  Poster Title: 'VulSim: Leveraging Similarity of Multi-Dimensional Neighbor Embeddings
+    for Vulnerability Detection and Explainability'
+- Authors: Hamed Barzamini and Mona Rahimi
+  Institution(s): Northern Illinois University
+  Poster Title: 'W-AIS: Advancing Safety and Maturity in Autonomous Driving through
+    Requirements Engineering for Multimodal Large Language Models'
+- Authors: Kevin A. Brown, Christopher Carothers, Zhiling Lan, Kai Shu, Tanwi Mallick,
+    Xin Wang, Elkin Cruz-Camacho, Xiongxiao Xu, Robert B. Ross
+  Institution(s): Argonne National Laboratory, Illinois Institute of Technology, Rensselaer
+    Polytechnic Institute, University of Illinois Chicago
+  Poster Title: 'The Kronos Project: Hybrid Parallel Discrete Event Simulations'
+- Authors: Keith Bateman, Neeraj Rajesh, Bodan Nicolae, Franck Cappello, Anthony Kougkas,
+    Xian-He Sun
+  Institution(s): Illinois Institute of Technology
+  Poster Title: 'DTIO: A DataTask I/O Library'
+- Authors: Jie Ye
+  Institution(s): Illinois Institute of Technology
+  Poster Title: 'Viper: A High-Performance I/O Framework for Transferring Deep Neural
+    Network Models'
+- Authors: Laura Serrano Velazquez, Nik Sultana
+  Institution(s): 'Illinois Institute of Technology '
+  Poster Title: Development, Implementation and Deployment of an Educational Platform  for
+    the Teaching of Protocols and Network Programming using P4
+- Authors: Hal Brynteson1, Athena Angara1, Fatima Jassim1, Victor Mateevitsi2, Silvio
+    Rizzi2, Nicola Ferrier2, Michael E. Papka1,2
+  Institution(s): 1. University of Illinois Chicago 2. Argonne National Laboratory
+  Poster Title: A Systematic Approach to Advance the Understanding of Digital Twin
+    Technologies
+- Authors: ' Donghyun Sohn, Kelly Jiang'
+  Institution(s): Northwestern University
+  Poster Title: 'Alchemy: A Query Optimization Framework for Oblivious SQL'
+- Authors: Md Saiful Islam, Douglas Thain
+  Institution(s): University of Notre Dame
+  Poster Title: Toward High-Performance Simulation of 1000 Drones
+- Authors: Colin Thomas, Douglas Thain
+  Institution(s): University of Notre Dame
+  Poster Title: Leveraging Intermediate Data Management With Parsl/TaskVine
+- Authors: Neal Conrad, Yongho Kim, Francisco Lozano, Sean Shahkarami, Rajesh Sankaran,
+    Nicola Ferrier, Pete Beckman
+  Institution(s): Argonne National Laboratory, Northwestern University
+  Poster Title: Web Visualization Tools for AI at the Edge
+- Authors: Yash Kurkure, Micheal Papka, Zhilling Lan
+  Institution(s): 'Argonne National Laboratory, Argonne National Laboratory and University
+    of Illinois Chicago, University of Illinois Chicago '
+  Poster Title: Digital twin for smart resource management in HPC
+- Authors: Xin Wang, Kevin A. Brown, Robert B. Ross, Christopher D. Carothers, Zhiling
+    Lan
+  Institution(s): University of Illinois Chicago
+  Poster Title: 'Towards Efficient Network Interference Analysis: A Multi-Fidelity
+    Modeling Approach for Multi-Traffic Simulation'
+- Authors: Yuanjian Liu, Sheng Di, Kyle Chard, Ian Foster
+  Institution(s): University of Chicago
+  Poster Title: 'Ocelot:'
+- Authors: Neeraj Rajesh, Anthony Kougkas, Xian-He Sun
+  Institution(s): Illinois Institute of Technology
+  Poster Title: Using Language Models for Cache Eviction in Modern Computing Systems
+- Authors: Luke Logan, Anthony Kougkas, Xian-He Sun
+  Institution(s): Illinois Tech
+  Poster Title: 'Changeling: A Tuneable, Upgradeable, and Dynamic Storage Semi-Microkernel'
+- Authors: Ahmedur Rahman Shovon, Sidharth Kumar
+  Institution(s): University of Illinois Chicago
+  Poster Title: Accelerating Iterative Joins Toward a Modern Datalog Backend on GPU
+- Authors: Tanwi Mallick, Mariam Kiran, Bashir Mohammed, Prasanna Balaprakash
+  Institution(s): 'Argonne National Laboratory '
+  Poster Title: Traffic Forecasting in ESnet Using Dynamic Graph Neural Networks
+- Authors: Xiongxiao Xu, Zhiling Lan, Kai Shu
+  Institution(s): Illinois Institute of Technology, University of Illinois Chicago
+  Poster Title: Exploring Machine Learning Models with Spatial-Temporal Information
+    for Interconnect Network Traffic Forecasting
+- Authors: Matthew T. Dearing, Zhiling Lan, Xingfu Wu, Valerie E. Taylor
+  Institution(s): University of Illinois Chicago
+  Poster Title: An Autonomous Self-Learning Pipeline for Generating Parallel Scientific
+    Code for AuroraGPT
+- Authors: Xiling Li
+  Institution(s): Northwestern University
+  Poster Title: 'RESCU-SQL: Scalable and Secure Multi-Party Querying over Untrusted
+    Cloud Servers'
+- Authors: Meng Tang, Nathan R. Tallent, Anthony Kougkas, Xian-He Sun
+  Institution(s): Illinois Institute of Technology
+  Poster Title: Optimizing Workflow Performance by Elucidating Semantic Data Flow
+- Authors: Lucas Raicu, Stefan Donisa, Lucas Ciobanu, Lan Nguyen, Ioan Raicu
+  Institution(s): Glenbrook South High School, John Hersey High School, Lisle High
+    School, Illinois Institute of Technology
+  Poster Title: 'CRYPTEX: fine-grained CRYPTocurrency datasets EXploration '
+- Authors: Jaime Cernuda, Anthony Kougkas, Xian-He Sun
+  Institution(s): Illinois Institute of Technology
+  Poster Title: 'ChronoTick: Taming Wall Clock Errors for Distributed Ordering'
+- Authors: Riccardo Strina, Ian Di Dio Lavore, Marco Domenico Santambrogio, Michael
+    Papka, Zhiling Lan
+  Institution(s): University of Illinois at Chicago, Politecnico di Milano
+  Poster Title: Performance and Power Evaluation of Multi-GPU NCCL Communication with
+    Unified Memory
+- Authors: Tessa Hall and Stefan Mitsch
+  Institution(s): DePaul University
+  Poster Title: Counterexamples in Cyber-Physical Systems Theorem Proving - Falsification
+    of Hybrid Discrete-Continuous Programs
+- Authors: Ke Fan, Sidharth Kumar
+  Institution(s): University of Illinois at Chicago
+  Poster Title: Configurable Algorithms for All-to-all Collectives
+- Authors: Ke Fan, Sidharth Kumar
+  Institution(s): University of Illinois at Chicago
+  Poster Title: Two-phase IO Enabling Large-scale Introspection
+- Authors: Zhiling Lan, Sourav Medya, Pietro Lodi Rizzini
+  Institution(s): University of Illinois Chicago
+  Poster Title: Predictive Modeling of Application Runtime in Dragonfly Systems using
+    Deep Neural Networks
+- Authors: Shixiong Jiang, Fanxin Kong
+  Institution(s): University of Notre Dame
+  Poster Title: Vulnerability Analysis for Safe Learning-Enabled Cyber-Physical Systems​
+- Authors: Weizhe Xu
+  Institution(s): University of Notre Dame
+  Poster Title: Assuring LLM-Enabled Cyber-Physical Systems
+- Authors: Anagha Tiwari
+  Institution(s): Argonne National Laboratory, University of Illinois at Urbana Champaign
+  Poster Title: Using Edge Computing to Automate Rideshare Vehicle Detection
+- Authors: Matt Baughman, Ian Foster, and Kyle Chard
+  Institution(s): University of Chicago
+  Poster Title: 'Corralling the Computing Continuum:  Mobilizing Modern Distributed
+    Resources for Machine Learning and Accessible Computing'
+- Authors: Akshata Tiwari
+  Institution(s): Argonne National Laboratory, University of Illinois Urbana-Champaign
+  Poster Title: Using Advanced Machine Learning Methods and Computational Tools for
+    Battery Technology Patent Classification and Analysis of the Employment Impact
+    of Electric Vehicle Supply Equipments
+- Authors: Lan Nguyen, Ioan Raicu
+  Institution(s): Illinois Institute of Technology
+  Poster Title: 'XBench: A Distributed Benchmarking Suite for Time-Series Storage
+    Systems'
+- Authors: 'Alessandro Martinolli '
+  Institution(s): University of Illinois at Chicago, Politecnico di Milano
+  Poster Title: Exploring the Effects of GPU Frequency Tuning and Power Capping
+- Authors: Melanie Cornelius
+  Institution(s): University of Illinois at Chicago
+  Poster Title: Making the Case for BPF in HPC
+- Authors: Adarsh Agrawal, Abhishek Sharma, Jamison Kerney, Lan Nguyen, Ioan Raicu
+  Institution(s): Illinois Institute of Technology
+  Poster Title: Optimizing Proof of Work through Memoization
+- Authors: Vijayalakshmi Saravanan, Khaled Z Ibrahim and Sai Karthik N
+  Institution(s): University of South Dakota and Lawrence Berkeley National Laboratory
+  Poster Title: Advancing Scientific Computational Research through Machine Learning-driven
+    Multimodal Data Integration
