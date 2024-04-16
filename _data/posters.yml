@@ -6,7 +6,7 @@
   Institution: University of Notre Dame
   Session: 1
   Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows on Opportunistic Resources
-- Authors: Zhongtang Luo; Adithya Bhat; Kartik Nayak; Aniket Kate
+- Authors: Zhongtang Luo, Adithya Bhat, Kartik Nayak, Aniket Kate
   Institution: Purdue University, Duke University, Supra Research
   Session: 1
   Title: Attacking and Improving the Tor Directory Protocol
@@ -21,11 +21,11 @@
 - Authors: Thanh Son Phung, Douglas Thain
   Institution: University of Notre Dame
   Session: 1
-  Title: Adaptive Task-Oriented Resource Allocation for  Large Dynamic Workflows on Opportunistic Resources
+  Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows on Opportunistic Resources
 - Authors: Lingzhi Wang, Xiangmin Shen, Jiahui Wang, Yan Chen, Zhenyuan Li
   Institution: Northwestern Unversity
   Session: 1
-  Title: From Atoms to Mansions: Automatic Red Team Emulation using Large Language Model
+  Title: 'From Atoms to Mansions: Automatic Red Team Emulation using Large Language Model'
 - Authors: Lingzhi Wang, Xiangmin Shen, Weijian Li, Zhenyuan Li, R. Sekar, Yan Chen
   Institution: Northwestern University
   Session: 1
@@ -61,19 +61,19 @@
 - Authors: Hamed Barzamini and Mona Rahimi
   Institution: Northern Illinois University
   Session: 1
-  Title: W-AIS: Advancing Safety and Maturity in Autonomous Driving through Requirements Engineering for Multimodal Large Language Models
+  Title: 'W-AIS: Advancing Safety and Maturity in Autonomous Driving through Requirements Engineering for Multimodal Large Language Models'
 - Authors: Kevin A. Brown, Christopher Carothers, Zhiling Lan, Kai Shu, Tanwi Mallick, Xin Wang, Elkin Cruz-Camacho, Xiongxiao Xu, Robert B. Ross
   Institution: Argonne National Laboratory, Illinois Institute of Technology, Rensselaer Polytechnic Institute, University of Illinois Chicago
   Session: 1
-  Title: The Kronos Project: Hybrid Parallel Discrete Event Simulations
+  Title: 'The Kronos Project: Hybrid Parallel Discrete Event Simulations'
 - Authors: Keith Bateman, Neeraj Rajesh, Bodan Nicolae, Franck Cappello, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
   Session: 1
-  Title: DTIO: A DataTask I/O Library
+  Title: 'DTIO: A DataTask I/O Library'
 - Authors: Jie Ye
   Institution: Illinois Institute of Technology
   Session: 1
-  Title: Viper: A High-Performance I/O Framework for Transferring Deep Neural Network Models
+  Title: 'Viper: A High-Performance I/O Framework for Transferring Deep Neural Network Models'
 - Authors: Laura Serrano Velazquez, Nik Sultana
   Institution: Illinois Institute of Technology
   Session: 1
@@ -85,7 +85,7 @@
 - Authors: Donghyun Sohn, Kelly Jiang
   Institution: Northwestern University
   Session: 1
-  Title: Alchemy: A Query Optimization Framework for Oblivious SQL
+  Title: 'Alchemy: A Query Optimization Framework for Oblivious SQL'
 - Authors: Md Saiful Islam, Douglas Thain
   Institution: University of Notre Dame
   Session: 1
@@ -105,7 +105,7 @@
 - Authors: Xin Wang, Kevin A. Brown, Robert B. Ross, Christopher D. Carothers, Zhiling Lan
   Institution: University of Illinois Chicago
   Session: 2
-  Title: Towards Efficient Network Interference Analysis: A Multi-Fidelity Modeling Approach for Multi-Traffic Simulation
+  Title: 'Towards Efficient Network Interference Analysis: A Multi-Fidelity Modeling Approach for Multi-Traffic Simulation'
 - Authors: Yuanjian Liu, Sheng Di, Kyle Chard, Ian Foster
   Institution: University of Chicago
   Session: 2
@@ -117,7 +117,7 @@
 - Authors: Luke Logan, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
   Session: 2
-  Title: Changeling: A Tuneable, Upgradeable, and Dynamic Storage Semi-Microkernel
+  Title: 'Changeling: A Tuneable, Upgradeable, and Dynamic Storage Semi-Microkernel'
 - Authors: Ahmedur Rahman Shovon, Sidharth Kumar
   Institution: University of Illinois Chicago
   Session: 2
@@ -145,11 +145,11 @@
 - Authors: Lucas Raicu, Stefan Donisa, Lucas Ciobanu, Lan Nguyen, Ioan Raicu
   Institution: Glenbrook South High School, John Hersey High School, Lisle High School, Illinois Institute of Technology
   Session: 2
-  Title: CRYPTEX: fine-grained CRYPTocurrency datasets EXploration
+  Title: 'CRYPTEX: fine-grained CRYPTocurrency datasets EXploration'
 - Authors: Jaime Cernuda, Anthony Kougkas, Xian-He Sun
   Institution: Illinois Institute of Technology
   Session: 2
-  Title: ChronoTick: Taming Wall Clock Errors for Distributed Ordering
+  Title: 'ChronoTick: Taming Wall Clock Errors for Distributed Ordering'
 - Authors: Riccardo Strina, Ian Di Dio Lavore, Marco Domenico Santambrogio, Michael Papka, Zhiling Lan
   Institution: University of Illinois Chicago, Politecnico di Milano
   Session: 2
@@ -157,7 +157,7 @@
 - Authors: Tessa Hall and Stefan Mitsch
   Institution: DePaul University
   Session: 2
-  Title: Counterexamples in Cyber-Physical Systems Theorem Proving - Falsification of Hybrid Discrete-Continuous Programs
+  Title: 'Counterexamples in Cyber-Physical Systems Theorem Proving - Falsification of Hybrid Discrete-Continuous Programs'
 - Authors: Ke Fan, Sidharth Kumar
   Institution: University of Illinois Chicago
   Session: 2
@@ -185,7 +185,7 @@
 - Authors: Matt Baughman, Ian Foster, and Kyle Chard
   Institution: University of Chicago
   Session: 2
-  Title: Corralling the Computing Continuum:  Mobilizing Modern Distributed Resources for Machine Learning and Accessible Computing
+  Title: 'Corralling the Computing Continuum: Mobilizing Modern Distributed Resources for Machine Learning and Accessible Computing'
 - Authors: Akshata Tiwari
   Institution: Argonne National Laboratory, University of Illinois Urbana-Champaign
   Session: 2
