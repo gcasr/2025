@@ -9,23 +9,16 @@ title: Posters
   <div class="col-sm-12 col-md-12">
     <h3 style="color: #d67a92">Session #{{ session.name }}</h3>
   </div>
-  {% assign posters = session.items | sort: "title" %} {% for poster in posters %}
+  {% assign posters = session.items | sort: "Title" %} {% for poster in posters %}
   <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
-    <h4>{{ poster.title }}</h4>
+    <h4>{{ poster.Title }}</h4>
     <div>
       <span style="font-style: italic">Authors: </span>
-      <strong>{{ poster.firstName }} {{ poster.lastName }}</strong>{% if poster.additionalAuthors !=
-      "" %}, {{ poster.additionalAuthors }}{% endif %}
+      <strong>{{ poster.Authors }} </strong>
     </div>
-    {% if poster.mentors != "" %}
-    <div>
-      <span style="font-style: italic">Mentors: </span>
-      {{ poster.mentors }}
-    </div>
-    {% endif %}
     <div>
       <span style="font-style: italic">Institution: </span>
-      {{ poster.institution }}
+      {{ poster.Institution }}
     </div>
   </div>
   {% endfor %}
