@@ -29,7 +29,7 @@ contents:
     panel: false
     posters: false
     talks: false
-    timetable: false
+    timetable: true
     tutorials: false
     workshops: false
   meeting:
