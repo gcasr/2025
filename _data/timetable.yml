@@ -15,7 +15,7 @@
     isKeynote: true
 -   time: 9:50 AM - 11:00 AM
     description: |
-        <a href="/posters#session-1"><b>Poster Session #1</b></a> <br/>
+        <a href="2024/posters#session-1"><b>Poster Session #1</b></a> <br/>
 
         <small>(with Snacks, Drinks, & Coffee)</small> 
     speaker: ''
@@ -62,7 +62,7 @@
     isKeynote: false
 -   time: 2:40 PM - 3:40 PM
     description: |
-        <a href="/posters#session-2"><b>Poster Session #2</b></a> <br/>
+        <a href="2024/posters#session-2"><b>Poster Session #2</b></a> <br/>
 
         <small>(with Snacks, Drinks, & Coffee)</small> 
     speaker: ''
