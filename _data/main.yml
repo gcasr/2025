@@ -25,7 +25,7 @@ contents:
     posters: true
     speakers: false
   program:
-    keynotes: false
+    keynotes: true
     panel: false
     posters: true
     talks: false
