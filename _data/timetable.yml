@@ -49,9 +49,9 @@
     affiliation: ''
     isKeynote: false
 -   time: 1:20 PM - 1:40 PM
-    description: 'TBD '
-    speaker: ''
-    affiliation: ''
+    description: 'V&V Challenges for Next Gen Automotive Systems'
+    speaker: 'Ramesh S'
+    affiliation: 'General Motors'
     isKeynote: false
 -   time: 1:40 PM - 2:00 PM
     description: Modal Crash Types for WAR-Aware Intermittent Computing
