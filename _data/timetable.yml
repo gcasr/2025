@@ -48,10 +48,15 @@
     speaker: ''
     affiliation: ''
     isKeynote: false
--   time: 1:20 PM - 2:00 PM
-    description: 'Industry Session '
+-   time: 1:20 PM - 1:40 PM
+    description: 'TBD '
     speaker: ''
     affiliation: ''
+    isKeynote: false
+-   time: 1:40 PM - 2:00 PM
+    description: Modal Crash Types for WAR-Aware Intermittent Computing
+    speaker: Farzaneh Derakhshan
+    affiliation: IIT
     isKeynote: false
 -   time: 2:00 PM - 2:40 PM
     description: An automated approach for improving the inference latency
@@ -100,11 +105,6 @@
     description: Scalable Data Management in the Age of AI
     speaker: Bogdan Nicolae
     affiliation: Argonne
-    isKeynote: false
--   time: 5:40 PM - 6:00 PM
-    description: Modal Crash Types for WAR-Aware Intermittent Computing
-    speaker: Farzaneh Derakhshan
-    affiliation: IIT
     isKeynote: false
 -   time: 6:00 PM - 6:10 PM
     description: Closing Remarks
