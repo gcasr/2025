@@ -2,10 +2,6 @@
   Institution: DePaul University
   session: 1
   Title: Efficient Differencing of System-level Provenance Graphs
-- Authors: Thanh Son Phung; Douglas Thain
-  Institution: University of Notre Dame
-  session: 1
-  Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows on Opportunistic Resources
 - Authors: Zhongtang Luo, Adithya Bhat, Kartik Nayak, Aniket Kate
   Institution: Purdue University, Duke University, Supra Research
   session: 1
@@ -20,7 +16,7 @@
   Title: Resource Management for Integrated Edge-to-HPC Workloads
 - Authors: Thanh Son Phung, Douglas Thain
   Institution: University of Notre Dame
-  session: 1
+  session: 2
   Title: Adaptive Task-Oriented Resource Allocation for Large Dynamic Workflows on Opportunistic Resources
 - Authors: Lingzhi Wang, Xiangmin Shen, Jiahui Wang, Yan Chen, Zhenyuan Li
   Institution: Northwestern Unversity
@@ -206,5 +202,5 @@
   Title: Making the Case for BPF in HPC
 - Authors: Adarsh Agrawal, Abhishek Sharma, Jamison Kerney, Lan Nguyen, Ioan Raicu
   Institution: Illinois Institute of Technology
-  session: 2
+  session: 1
   Title: Optimizing Proof of Work through Memoization
