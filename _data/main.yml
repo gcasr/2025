@@ -8,7 +8,7 @@ dates: Thursday, May 2, 2024 # conference dates
 
 location: University of Illinois Chicago # conference location
 
-description: 
+description: >
   The Greater Chicago Area Systems Research Workshop (GCASR) is a premier venue for the Chicago and Midwest systems research community. 
   The workshop's goal is to promote awareness, collaboration, and synergy among academic and corporate systems researchers in the region. 
   The workshop includes major participation from the University of Chicago, Northwestern University, DePaul University, the University of 
@@ -16,7 +16,9 @@ description:
   sub-areas of systems, broadly construed, including operating systems, distributed computing, systems for machine learning, high performance 
   computing, computer architecture, networks, databases, and security.
 
+  <br /><br />
   The meeting will be held on the Illinois Rooms (3rd floor) of Student Center East 
+  <br /><br />
 
 # visibility of contents in the website
 contents:
