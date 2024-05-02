@@ -8,22 +8,17 @@
     speaker: ''
     affiliation: ''
     isKeynote: false
-<<<<<<< HEAD
--   time: 9:00 AM - 9:20 AM
+-   time: '9:00 AM - 9:20 AM'
     description: Bio-inspired Neural Models for Software Engineering Problems
-    speaker: 'Collin McMilan '
+    speaker: 'Collin McMilan'
     affiliation: Notre Dame
     isKeynote: false
 -   time: 9:20 AM - 10:10 AM
     description: ''
-=======
--   time: 9:00 AM - 9:50 AM
-    description: 'The Decade Ahead: Building Frontier AI Systems for Science and the Path to Zettascale'
->>>>>>> 1c2ef9cc989a9ddfbcffb8723f1bf30888472e85
     speaker: Rick Stevens
     affiliation: ANL/UChicago
     isKeynote: true
--   time: 10:00 AM - 11:20 AM
+-   time: 10:10 AM - 11:20 AM
     description: |
         <a href="2024/posters#session-1"><b>Poster Session #1</b></a> <br/>
 
