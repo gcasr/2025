@@ -58,12 +58,17 @@
     speaker: Farzaneh Derakhshan
     affiliation: IIT
     isKeynote: false
--   time: 2:00 PM - 2:40 PM
+-   time: 2:00 PM - 2:20 PM
     description: An automated approach for improving the inference latency
         and energy efficiency of pretrained CNNs by removing irrelevant pixels
         with focused convolutions
     speaker: George Thiruvathukal
     affiliation: Loyola
+    isKeynote: false
+-   time: 2:20 PM - 2:40 PM
+    description: Scalable Data Management in the Age of AI
+    speaker: Bogdan Nicolae
+    affiliation: Argonne
     isKeynote: false
 -   time: 2:40 PM - 3:40 PM
     description: |
@@ -101,12 +106,7 @@
     speaker: Joana Santos
     affiliation: Notre Dame
     isKeynote: false
--   time: 5:20 PM - 5:40 PM
-    description: Scalable Data Management in the Age of AI
-    speaker: Bogdan Nicolae
-    affiliation: Argonne
-    isKeynote: false
--   time: 6:40 PM - 6:00 PM
+-   time: 5:30 PM - 5:40 PM
     description: Closing Remarks
     speaker: ''
     affiliation: ''
