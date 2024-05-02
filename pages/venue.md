@@ -2,6 +2,8 @@
 
 The workshop will be held at the University of Illinois Chicago, in the [Student Center East](https://sa.uic.edu/).
 
+The meeting room is on the 3rd floor Illinois Rooms of Student Center East.
+
 **Address**: 750 S Halsted St, Chicago, IL 60607
 
 
