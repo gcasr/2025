@@ -1,12 +1,12 @@
-edition: 11th # conference edition
+edition: 12th # conference edition
 
 theme: International Conference
 
 # logo: escience-logo.png # conference logo (for menu in header bar / replaces theme)
 
-dates: Thursday, May 2, 2024 # conference dates
+dates: Thursday, May 8, 2024 # conference dates
 
-location: University of Illinois Chicago # conference location
+location: Loyola University Chicago # conference location
 
 description: >
   The Greater Chicago Area Systems Research Workshop (GCASR) is a premier venue for the Chicago and Midwest systems research community. 
@@ -17,7 +17,7 @@ description: >
   computing, computer architecture, networks, databases, and security.
 
   <br /><br />
-  The meeting will be held on the Illinois Rooms (3rd floor) of Student Center East 
+  The meeting will be held in Loyola's Water Tower Place Campus
   <br /><br />
 
 # visibility of contents in the website
@@ -26,22 +26,22 @@ contents:
     papers: false
     workshops: false
     tutorials: false
-    posters: true
+    posters: false
     speakers: false
   program:
-    keynotes: true
+    keynotes: false
     panel: false
-    posters: true
+    posters: false
     talks: false
-    timetable: true
+    timetable: false
     tutorials: false
     workshops: false
   meeting:
-    registration: true
+    registration: false
     venue: true
     virtual: false
     quickstart: false
   committees:
     organizers: true
-    program: false 
+    program: false
     steering: false
