@@ -1,48 +1,11 @@
 roles:
   - General Chairs
-  - Technical Program Chairs
-  - Poster Chairs
-  - Communication Chair
-  - Finance Chair
-  - Website Chair
+
 
 organizers:
-  - name: Michael E. Papka
+  - name: George K. Thiruvathukal
     role: General Chairs
-    institution: University of Illinois Chicago and Argonne National Laboratory
-    photo: michael_papka.jpg
+    institution: Loyola University Chicago
+    photo: george.jpg
 
-  - name: Zhiling Lan
-    role: General Chairs
-    institution: University of Illinois Chicago and Argonne National Laboratory
-    photo: zhiling_lan.jpg
-
-  - name: Mona Rahimi 
-    role: Technical Program Chairs
-    institution: Northern Illinois University
-    photo: mona.jpg
-    
-  - name: Luis Pina
-    role: Technical Program Chairs
-    institution: University of Illinois Chicago
-    photo: pina.jpg
-
-  - name: Roselyne Tchoua
-    role: Poster Chairs
-    institution: DePaul University
-    photo: roselyne.jpg
-
-  - name: Swann Perarnau
-    role: Poster Chairs
-    institution: Argonne National Laboratory
-    photo: swann.jpg
  
-  - name: Kyle Chard
-    role: Finance Chair
-    institution: University of Chicago
-    photo: kyle_chard.jpeg
-
-  - name: Valerie Hayot-Sasson
-    role: Website Chair
-    institution: University of Chicago
-    photo: valerie_hayot.jpg
