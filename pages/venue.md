@@ -1,4 +1,4 @@
-## UIC Student Center East
+## Loyola Water Tower Campus
 
 The workshop will be held at the Loyola University Chicago, in the [Water Tower Campus]([https://sa.uic.edu/](https://www.luc.edu/communityrelations/campuses/watertowercampuswtc/)).
 
