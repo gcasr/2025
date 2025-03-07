@@ -8,4 +8,8 @@ organizers:
     institution: Loyola University Chicago
     photo: george.jpg
 
- 
+ organizers:
+  - name: Bethany Lusch
+    role: General Chairs
+    institution: Argonne National Laboratory
+    photo: lusch.jpg
