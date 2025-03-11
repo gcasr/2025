@@ -6,11 +6,6 @@ Faculty members, researchers, postdocs, students, and others with an interest in
 
 Submit your poster at: [https://forms.gle/5MFZDXMKmrLbfUDK7](https://forms.gle/5MFZDXMKmrLbfUDK7](https://forms.gle/2vbxTnHvcQS4Yhfe6)
 
-### Dates
-
-Submission deadline: April 7, 2025 11:59 PM CT
-Notification: April 15, 2025
-
 ### Submission Requirements
 
 - Please submit an abstract of no more than 250 words.
