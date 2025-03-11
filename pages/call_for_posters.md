@@ -11,7 +11,7 @@ Submit your poster at: [https://forms.gle/jg9mWkczSsTkWFTb8](https://forms.gle/j
 - Please submit an abstract of no more than 250 words.
 - Posters may cover already-published work.
 
-### Presentation guidelines
+### Presentation Guidelines
 
 - Posters must fit on a poster board of size 24*36
 - Authors should bring their poster to the workshop 
