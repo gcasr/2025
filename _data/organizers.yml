@@ -14,11 +14,11 @@ organizers:
     role: General Chairs
     institution: Argonne National Laboratory
     photo: lusch.jpg
-
-  - name: Andrew Crotty
+    
+  - name: Sidharth Kumar
     role: Program Chairs
-    institution: Northwestern University
-    photo: crotty-andrew.jpg
+    institution: University of Illinois Chicago
+    photo: Kumar-Sidharth.jpg
 
   - name: Neil Klingensmith
     role: Program Chairs
@@ -29,8 +29,9 @@ organizers:
     role: Posters Chairs
     institution: Illinois Institute of Technology
     photo: farzaneh-derakhshan.jpg
-
-  - name: Sidharth Kumar
+    
+  - name: Andrew Crotty
     role: Posters Chairs
-    institution: University of Illinois Chicago
-    photo: Kumar-Sidharth.jpg
+    institution: Northwestern University
+    photo: crotty-andrew.jpg
+
