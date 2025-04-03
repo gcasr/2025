@@ -26,12 +26,14 @@ Topics of interest include, but are not limited to:
 - Distributed Systems
 - Grids/Clouds/Supercomputing (including HPC/MTC/HTC)
 - Edge computing
+- Energy Efficient Computing
 - Reconfigurable, Real-time, Cyberphysical, and Embedded Systems
 - Programming Languages and Runtime Systems
 - File and Storage Systems
 - Parallelism and Multi/Many-core Systems
 - Secure and Reliable Systems
 - Databases
+- Artificial Intelligence and Machine Learning
 
 ### Need Help?
 
