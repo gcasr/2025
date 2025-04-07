@@ -1,24 +1,19 @@
--   time: 8:15 AM - 8:40 AM
+-   time: 8:15 AM - 8:45 AM
     description: Light Breakfast & Coffee
     speaker: ''
     affiliation: ''
     isKeynote: false
--   time: 8:40 AM - 9:00 AM
+-   time: 8:45 AM - 9:00 AM
     description: Introduction
-    speaker: ''
+    speaker: 'George Thiruvathukal and Bethany Lusch'
     affiliation: ''
     isKeynote: false
--   time: '9:00 AM - 9:20 AM'
-    description: Bio-inspired Neural Models for Software Engineering Problems
-    speaker: 'Collin McMilan'
-    affiliation: Notre Dame
-    isKeynote: false
--   time: 9:20 AM - 10:10 AM
-    description: 'The Decade Ahead: Building Frontier AI Systems for Science and the Path to Zettascale'
-    speaker: Rick Stevens
-    affiliation: ANL/UChicago
+-   time: '9:00 AM - 10:00 AM'
+    description: Keynote
+    speaker: 'TBA'
+    affiliation: 
     isKeynote: true
--   time: 10:10 AM - 11:20 AM
+-   time: 10:00 AM - 11:20 AM
     description: |
         <a href="posters#session-1"><b>Poster Session #1</b></a> <br/>
 
@@ -27,50 +22,41 @@
     affiliation: ''
     isKeynote: false
 -   time: 11:20 AM - 11:40 AM
-    description: "Better Together, with Compound Processes"
-    speaker: Jakob Erikson
-    affiliation: UIC
+    description: ""
+    speaker: Nik Sultana
+    affiliation: IIT
     isKeynote: false
 -   time: 11:40 AM - 12:00 PM
-    description: When Should Prices Stay Fixed? On the Chances and Limitations
-        of Spot Pricing in Larger Markets
-    speaker: Ludwig Dierks
-    affiliation: UIC
+    description: 
+    speaker: Sanjay Krishnan
+    affiliation: UChicago
     isKeynote: false
 -   time: 12:00 PM - 12:20 PM
-    description: Verification-Driven Engineering of Autonomous Cyber-Physical
-        Systems
-    speaker: Stefan Mitsch
-    affiliation: DePaul
+    description: 
+    speaker: Kate Smith
+    affiliation: Northwestern
     isKeynote: false
--   time: 12:20 PM - 1:20 PM
+-   time: 12:20 PM - 1:40 PM
     description: Lunch
     speaker: ''
     affiliation: ''
     isKeynote: false
--   time: 1:20 PM - 1:40 PM
-    description: 'V&V Challenges for Next Gen Automotive Systems'
-    speaker: 'Ramesh S'
-    affiliation: 'General Motors'
-    isKeynote: false
 -   time: 1:40 PM - 2:00 PM
-    description: Modal Crash Types for WAR-Aware Intermittent Computing
-    speaker: Farzaneh Derakhshan
-    affiliation: IIT
+    description: 
+    speaker: Xiaoguang Wang
+    affiliation: UIC
     isKeynote: false
 -   time: 2:00 PM - 2:20 PM
-    description: An automated approach for improving the inference latency
-        and energy efficiency of pretrained CNNs by removing irrelevant pixels
-        with focused convolutions
-    speaker: George Thiruvathukal
+    description: 
+    speaker: Satyaki Sikdar
     affiliation: Loyola
     isKeynote: false
 -   time: 2:20 PM - 2:40 PM
-    description: Scalable Data Management in the Age of AI
-    speaker: Bogdan Nicolae
-    affiliation: Argonne
+    description: 
+    speaker: Alexander Rasin
+    affiliation: DePaul
     isKeynote: false
--   time: 2:40 PM - 3:40 PM
+-   time: 2:40 PM - 4:00 PM
     description: |
         <a href="posters#session-2"><b>Poster Session #2</b></a> <br/>
 
@@ -78,36 +64,19 @@
     speaker: ''
     affiliation: ''
     isKeynote: false
--   time: 3:40 PM - 4:00 PM
-    description: 'Sustainable Computational Materials : Rethinking the Electronic
-        Lifecycle from an Environmental Lens'
-    speaker: Nivedita Arora
-    affiliation: Northwestern
-    isKeynote: false
 -   time: 4:00 PM - 4:20 PM
-    description: 'UpDown: Architecture and Runtime Support for Scalable Performance on Irregular Applications'
-    speaker: Hank Hoffman
-    affiliation: UChicago
+    description: 
+    speaker: Mona Rahimi
+    affiliation: Northern Illinois
     isKeynote: false
 -   time: 4:20 PM - 4:40 PM
-    description: Extending Computational Notebook Systems to Support Reproducibility
-    speaker: David Koop
-    affiliation: NIU
+    description: 
+    speaker: Varuni Sastry
+    affiliation: Argonne
     isKeynote: false
 -   time: 4:40 PM - 5:00 PM
-    description: 'From Offline to Online: A Platform for Recommending People
-        to Connect to at Events'
-    speaker: Alvin Chin
-    affiliation: DPI
-    isKeynote: false
--   time: 5:00 PM - 5:20 PM
-    description: Exploring the Susceptibility of LLM-Generated Regexes to
-        Denial of Service (DoS) Attacks
-    speaker: Joana Santos
-    affiliation: Notre Dame
-    isKeynote: false
--   time: 5:30 PM - 5:40 PM
     description: Closing Remarks
-    speaker: ''
-    affiliation: ''
+    speaker: 
+    affiliation: 
     isKeynote: false
+
