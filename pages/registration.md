@@ -1,7 +1,7 @@
 
 ### Registration Fee
 
-To help make GCASR possible, we charge nominal registration fees: [https://www.eventbrite.com/e/gcasr-2025-tickets-1309128752339?aff=oddtdtcreator](https://www.eventbrite.com/e/gcasr-2025-tickets-1309128752339?aff=oddtdtcreator)
+To help make GCASR possible, we charge nominal registration fees: [https://www.eventbrite.com/e/gcasr-2025-tickets-1309128752339](https://www.eventbrite.com/e/gcasr-2025-tickets-1309128752339)
 
 - Early Registration (Before April 28)
   - Faculty/Non-profit: 25$
