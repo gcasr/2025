@@ -1,9 +1,360 @@
-- Authors: 
-  Institution: 
+- Authors: Tommy McMichen
+  Institution: Northwestern University
   session: 1
-  Title: TBD
+  Title: "Collection-Oriented Compilation with MEMOIR"
 
-- Authors: 
-  Institution: 
+- Authors: Ali Siddiqui, Lei Chen, Farhan Saif and Luís Pina
+  Institution: University of Illinois Chicago
+  session: 1
+  Title: "Snek: Testing concurrent Python without the GIL"
+
+- Authors: Jack West, Lea Thiemt, Shimaa Ahmed, Maggie Bartig, Kassem Fawaz and Suman Banerjee
+  Institution: University of Wisconsin - Madison
+  session: 1
+  Title: "A Picture is Worth 500 Labels: A Case Study of Demographic Disparities in Local Machine Learning Models for Instagram and TikTok"
+
+- Authors: Solomon Bekele
+  Institution: Argonne National Laboratory
+  session: 1
+  Title: "Characterizing Performance and Energy Trade-offs on Aurora"
+
+- Authors: Jin Zhou, Colin Thomas, Barry Sly-Delgado, Connor Moore, Benjamin Tovar, Kevin Lannon and Douglas Thain
+  Institution: University of Notre Dame
+  session: 1
+  Title: "Effectively Exploiting Node-Local Storage For Data-Intensive Scientific Workflows"
+
+- Authors: Joshua Honig, Daniel Gaevskiy, LucÍa Garr, Nika Primus, Jeremiah Lateef and Eric Chan-Tin
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "Analysis of New Regulatory Requirements for Disclosure of Cybersecurity Incidents"
+
+- Authors: Jesse Coultas, Joseph Wiseman and Luís Pina
+  Institution: University of Illinois Chicago
+  session: 1
+  Title: "PropCov: Effective Coverage Reporting for Property-Based Testing"
+
+- Authors: Raza Ahmad, Hee Young Jung, Yuta Nakamura and Tanu Malik
+  Institution: DePaul University, The University of Chicago
+  session: 1
+  Title: "Accurate Path Prediction of Provenance Traces"
+
+- Authors: Anushree Bachhav
+  Institution: DePaul University
+  session: 1
+  Title: "Review on Current trends in AI for code generation: A study on LLMs, Code Quality, and Refactoring"
+
+- Authors: Ahmedur Rahman Shovon and Sidharth Kumar
+  Institution: University of Illinois Chicago
+  session: 1
+  Title: "Multi-Node Multi-GPU Datalog"
+
+- Authors: Luke Niemeyer and Neil Klingensmith
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "OpenCAPS: An Open Source System for Evaluating Context-based Authentication Protocols"
+
+- Authors: Kirill Nagaitsev, Kevin McAfee, Kevin Hayes, Justin Dong, Nadharm Dhiantravan and Peter Dinda
+  Institution: Northwestern University
+  session: 1
+  Title: "Eliminating Hardware Interrupts with Dispersed Interrupt Polling"
+
+- Authors: Karl Hallsby, Liam Strand, Nick Wanninger, Nadharm Dhiantravan and Peter Dinda
+  Institution: Northwestern University
+  session: 1
+  Title: "Architecture-independent Floating Point Spying and an Architecture for Floating Point Spying"
+
+- Authors: Robert J. Hayek, Joaquin Chung, Kayla Comer, Chandra R. Murthy, Rajkumar Kettimuthu and Igor Kadota
+  Institution: Northwestern University, Argonne National Laboratory, Indian Institute of Science 
+  session: 1
+  Title: "Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation"
+
+- Authors: Neil Klingensmith and Rushikesh R. Shirsat
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "Micro Grid: A Smart IoT-Based Power Delivery System"
+
+- Authors: Ibrahim Al Azher and Hamed Alhoori
+  Institution: Northern Illinois University
+  session: 1
+  Title: "Optimizing Database Performance in Retrieval-Augmented Generation with Adaptive Retrieval and Efficient Evaluation Methods"
+
+- Authors: Daniar H. Kurniawan, Rani Ayu Putri, Peiran Qin, Kahfi S. Zulkifli, Ray A. O. Sinurat, Janki Bhimani, Sandeep Madireddy, Achmad Imam Kistijantoro and Haryadi S. Gunawi
+  Institution: University of Chicago, MangoBoost, Bandung Institute of Technology, Florida International University, Argonne National Laboratory
+  session: 1
+  Title: "Heimdall: Optimizing Storage I/O Admission with Extensive Machine Learning Pipeline"
+
+- Authors: Yash Kurkure, Yihe Zhang, Michael E. Papka and Zhiling Lan
+  Institution: University of Illinois Chicago
+  session: 1
+  Title: "Overcoming RL Limitations in HPC Scheduling: A Model-Based MCTS Approach for Practical Deployment"
+
+- Authors: Colin Thomas
+  Institution: University of Notre Dame
+  session: 1
+  Title: "Enabling Tailored Optimizations for Scientific Workflows through I/O Tracing"
+
+- Authors: Smita Darmora, Kevin A. Brown, Tanwi Mallick, Michael E. Papka and Zhiling Lan
+  Institution: University of Illinois Chicago and Argonne National Laboratory
+  session: 1
+  Title: "From Logs to Lessons: Understanding System Failures on Cray XC40 Supercomputer"
+
+- Authors: Nicholas M. Synovic, Karolina Ryzka, , Ale Vellucci Solari, Dr. James Davis and Dr. George K. Thiruvathukal
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "PTMs For Science - An Exploratory Mixed Methods Study Of Scientist's Reuse Methods"
+
+- Authors: Xin Wang, Yao Kang and Zhiling Lan
+  Institution: University of Illinois Chicago
+  session: 1
+  Title: "Preventing Workload Interference with Intelligent Routing and Flexible Job Placement Strategy on Dragonfly System"
+
+- Authors: Mohammed Mustafa Khan
+  Institution: DePaul University 
+  session: 1
+  Title: "Revolutionizing Dental Care: The Synergy of AI, Health Informatics, and Blockchain Technology"
+
+- Authors: Charikleia Iakovidou
+  Institution: Argonne National Laboratory
+  session: 1
+  Title: "Empowering AI at the Edge with Federated Learning"
+
+- Authors: Seth Ockerman, Amal Gueroudji, Renan Souza, Matthieu Dorier, Rob Ross and Shivaram Venkataraman
+  Institution: University of Wisconsin-Madison, Argonne National Lab, OakRidge National Lab
+  session: 1
+  Title: "Efficient Profiling and Workflow Provenance with Mofka-Flowcept"
+
+- Authors: Shambhawi Sharma, Xin Wang, Zhiling Lan and Michael E. Papka
+  Institution: University of Illinois-Chicago
+  session: 1
+  Title: "On-Demand Pilot Job Scheduling for Adaptive Execution of HEP Workflows on HPC Systems"
+
+- Authors: Shilpika, Bethany Lusch, Carlo Graziani, Venkatram Vishwanath and Michael E. Papka
+  Institution: Argonne National Laboratory
+  session: 1
+  Title: "A Scalable Pattern Mining Workflow for Interpretable Machine Log Analysis in High-Performance Computing Environments"
+
+- Authors: Charis Christopher Hulu, Sidharth Kumar and Gopikrishna Deshpande
+  Institution: Univeristy of Illinois Chicago, Auburn University
+  session: 1
+  Title: "Neurological Diseases Spectrum Mapping using Topological Data Analysis"
+
+- Authors: Liuzixuan Lin, Rajini Wijayawardana, Varsha Rao, Hai Nguyen, Emmanuel Wedan GNIBGA and Andrew A. Chien
+  Institution: University of Chicago, Argonne National Laboratory
+  session: 1
+  Title: "Exploding AI Power Use: an Opportunity to Rethink Grid Planning and Management"
+
+- Authors: Wilkie Olin-Ammentorp
+  Institution: Argonne National Laboratory
+  session: 1
+  Title: "Rapid Simulation of Scientific Workflows for Co-Design"
+
+- Authors: Varsha Rao and Andrew A Chien
+  Institution: University of Chicago
+  session: 1
+  Title: "Understanding the Operational Carbon Footprint of Storage Reliability and Management"
+
+- Authors: Jiya Su, Andronicus Rajasukumar and Andrew A. Chien
+  Institution: University of Chicago
+  session: 1
+  Title: "Scalable Fine-Grained Triangle Counting on UpDown"
+
+- Authors: J. Gregory Pauloski, Yadu Babuji, Ryan Chard, Ian Foster and Kyle Chard
+  Institution: University of Chicago, Argonne National Laboratory
+  session: 1
+  Title: "Empowering Scientific Workflows with Federated Agents"
+
+- Authors: Huy Nguyen, Nandhini Gulasingam, Jacob Furst, Daniela Raicu and Alexandru Orhean
+  Institution: DePaul University
+  session: 1
+  Title: "Neurobazaar : Efficient Data Interactive Visualization and Exploration Platform"
+
+- Authors: Brian Ortiz, Mohammed Abuhamad, TaiNing Wang, George K. Thiruvathukal and Konstantin Läufer
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "Automating TLA+ Model Synthesis with Large Language Models and Formal Verification Pipelines"
+
+- Authors: Nick Wanninger, Atmn Patel, Nikos Hardavellas and Peter Dinda
+  Institution: Northwestern University
+  session: 1
+  Title: "Rethinking Memory Management with Handles"
+
+- Authors: Colin Brown and David Koop
+  Institution: Northern Illinois University 
+  session: 1
+  Title: "Dataflow Notebooks: Improving Dependency Understanding in Computational Notebook Systems"
+
+- Authors: Nick Zappia, Konstantin Läufer, TaiNing Wang, George K. Thiruvathukal and Mohammed Abuhamad
+  Institution: Loyola University Chicago
   session: 2
-  Title: TBD
+  Title: "Evaluating Open-Source Code Generation Models for Unit Test Synthesis"
+
+- Authors: Kunting Qi, Fan Ke and Sidharth Kumar
+  Institution: University of Illinois Chicago
+  session: 2
+  Title: "Performance Characterization and Tuning of Non-uniform All-to-all Data Exchnages"
+
+- Authors: Zheng Zhang and Andrew Crotty
+  Institution: Northwestern University
+  session: 2
+  Title: "DTS3: Deep Time Series Similarity Search"
+
+- Authors: Yihe Zhang, Michael E. Papka and Zhiling Lan
+  Institution: University of Illinois Chicago
+  session: 2
+  Title: "CQSim-Power: Power-aware HPC Job Scheduling Simulator"
+
+- Authors: Huiyun Peng, Arjun Gupte, Ryan Hasler, Konstantin Läufer, George K. Thiruvathukal and James C. Davis
+  Institution: Purdue University, Loyola University Chicago
+  session: 2
+  Title: "Towards Scalable and Performance-Aware Code Optimization with LLMs"
+
+- Authors: Alvin Gonzales
+  Institution: Argonne National Laboratory
+  session: 2
+  Title: "Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform"
+
+- Authors: J. Luce, A. Yunker, R. Kettimuthu, G. Thiruvathukal and J. Roeske
+  Institution: Loyola University of Chicago, Argonne National Laboratory
+  session: 2
+  Title: "A Classification Network to Simulate Physician Evaluation of Synthetic Medical Images"
+
+- Authors: Valentino Guerrini, Ke Fan and Sidharth Kumar
+  Institution: University of Illinois at Chicago
+  session: 2
+  Title: "Exploring Node-Aware AllReduce Strategies for the Exascale Era"
+
+- Authors: Lang Liu, Farzaneh Derakhshan, Limin Jia, Gabriel A Moreno and Mark Klein
+  Institution: Illinois Institute of Technology, Carnegie Mellon University, Software Engineering Institute - Carnegie Mellon University
+  session: 2
+  Title: "Compositional Reasoning for Heterogeneously Analyzed Systems"
+
+- Authors: Zhong Zheng, Seyfal Sultanov, Michael E. Papka and Zhiling Lan
+  Institution: University of Illinois at Chicago, Argonne National Laboratory
+  session: 2
+  Title: "MAGUS: Memory-Throughput-Based Uncore Frequency Scaling on Heterogeneous Systems"
+
+- Authors: Subha Ilamathy, Rafat Ashraf Joy and Matthew T. Dearing
+  Institution: University of Illinois Chicago
+  session: 2
+  Title: "Temporal Causal Discovery in Complex HPC Network Traffic Simulations"
+
+- Authors: Matthew T. Dearing, Yiheng Tao, Xingfu Wu, Zhiling Lan and Valerie Taylor
+  Institution: University of Illinois Chicago, Argonne National Laboratory
+  session: 2
+  Title: "LASSI-EE: Automated Energy-Aware Refactoring of Parallel Scientific Codes Using LLMs"
+
+- Authors: Berk Çakar, Charles M. Sale, Sophie Chen, Ethan H. Burmane, Dongyoon Lee and James C. Davis
+  Institution: Purdue University, Stony Brook University, University of Michigan
+  session: 2
+  Title: "Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies"
+
+- Authors: Valerie Hayot-Sasson, Maxime Gonthier, Ian Foster and Kyle Chard
+  Institution: University of Chicago, Argonne National Laboratory
+  session: 2
+  Title: "Continuous Reproducibility in HPC: Addressing challenges through automation"
+
+- Authors: Victor A. Mateevitsi, Andres Sewell, Thomas Marrinan, Dimitrios K. Fytanidis, Silvio Rizzi, Joseph Insley, Steve Petruzza and Michael E. Papka
+  Institution: Argonne National Laboratory, University of Illinois Chicago, Utah State University, University of St. Thomas
+  session: 2
+  Title: "Instrumenting and Scaling Scientific Workflows for Bi-Directional Steering in Supercomputing Environments"
+
+- Authors: Jiaxin Lu
+  Institution: University of Illinois at Chicago
+  session: 2
+  Title: "Accelerating Iterative Relational Algebra Operations with WebGPU"
+
+- Authors: James Davis, Lavangi Yadava, Parv Kumar, Parth Kapila, Rohan Potta and Zach Homrich
+  Institution: Purdue University 
+  session: 2
+  Title: "Optimizing LLM-Based Multi-Agent Collaboration in Software Engineering"
+
+- Authors: Caitlin Lamirez and Dr. Michael Lewis
+  Institution: Lewis University, Argonne National Laboratory
+  session: 2
+  Title: "Assessing the Accuracy of Parallelized Subspace Clustering Compared to Full Multidimensional Clustering"
+
+- Authors: Sam Sami and Stefan Mitsch
+  Institution: DePaul University
+  session: 2
+  Title: "Auto-Tuning of Symbolic Cyber-Physical Control Envelopes"
+
+- Authors: Weijian Zheng, Hemant Sharma, Ryan Chard, Peter Kenesei, Jun-Sang Park, Nicholas Schwarz, Antonino Miceli, Ian T. Foster and Rajkumar Kettimuthu
+  Institution: Argonne National Laboratory
+  session: 2
+  Title: "Managing Machine Learning Workflows (M2ML) Across Distributed Scientific Facilities"
+
+- Authors: Romain Pereira
+  Institution: Argonne National Laboratory
+  session: 2
+  Title: "Design and Implementation of a Multi-GPU Macro-Dataflow Runtime System"
+
+- Authors: Amy Byrnes, Serhan Mete, Jahred Adelman, Peter van Gemmeren and Michael E. Papka
+  Institution: University of Illinois - Chicago, Argonne National Laboratory, Northern Illinois University, CERN
+  session: 2
+  Title: "Navigating Trade-Offs in Compression: Evaluating SZ3 for High Energy Physics Data"
+
+- Authors: Sadiya Ahmad and Ali Jannesari
+  Institution: Iowa State University
+  session: 2
+  Title: "Data Processing for Enhanced Energy Efficiency in HPC Systems"
+
+- Authors: Barry Sly-Delgado and Douglas Thain
+  Institution: University of Notre Dame
+  session: 2
+  Title: "Task Graph Restructuring via Function Based Annotation For Large-Scale Scientific Applications"
+
+- Authors: Bekmukhamed Tursunbayev and Ioan Raicu
+  Institution: Illinois Institute of Technology
+  session: 2
+  Title: "Scalable Blockchain Sharding: Performance Analysis and Trade-Offs"
+
+- Authors: Lucas Raicu and Ioan Raicu
+
+  Institution: Glenbrook South High School, Illinois Institute of Technology
+  session: 2
+  Title: "CryptoHeat: A Smart, Cost-Efficient Personal Heater Powered by Blockchain Mining"
+
+- Authors: Zack Chaffee
+  Institution: Illinois Institute of Technology
+  session: 2
+  Title: "A Technical Analysis of Chia Proof of Space"
+
+- Authors: Varvara Bondarenko and Ioan Raicu
+  Institution: Illinois Institute of Technology
+  session: 2
+  Title: "Securing Proof-of-Space against Hellman Attacks"
+
+- Authors: Cory Gardner, Byoungseok Min and Tae-Hyuk Ahn*
+  Institution: Saint Louis University, Sejong University
+  session: 2
+  Title: "PaDiM-Wavelet: Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems"
+
+- Authors: Nehal Patil, Lan Nguyen and Ioan Raicu
+  Institution: Illinois Institute of Technology
+  session: 2
+  Title: "Benchmarking Time-Series Databases for Blockchain Workloads Using a Scalable Multi-Node Framework"
+
+- Authors: Talha Azaz
+  Institution: DePaul University
+  session: 2
+  Title: "Implementing Efficient Rollbacks for Jupyter Notebook Sessions"
+
+- Authors: Wenyi Wang, Maxime Gonthier, Poornima Nookala, Haochen Pan, Ian Foster, Ioan Raicu and Kyle Chard
+  Institution: University of Chicago
+  session: 2
+  Title: "Optimizing Fine-Grained Parallelism Through Dynamic Load Balancing on Multi-Socket Many-Core Systems"
+
+- Authors: Andronicus Rajasukumar, Tianchi Zhang, Ruiqi Xu and Andrew A. Chien
+  Institution: University of Chicago, Argonne National Laboratory
+  session: 2
+  Title: "UpDown: A Novel Architecture for Unlimited Memory Parallelism"
+
+- Authors: Donghyun Sohn, Shimin Luo and Jennie Rogers
+  Institution: Northwestern University
+  session: 2
+  Title: "Cloud-Optimized Secure Query Evaluation"
+
+- Authors: Chloe Kilroy and Tyler Rosario
+  Institution: Loyola University of Chicago 
+  session: 2
+  Title: "Cyberbullying Network: Analyzing Victim, Aggressor, and Defender Interactions on Instagram"
