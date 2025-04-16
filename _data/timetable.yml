@@ -75,6 +75,11 @@
     affiliation: Loyola
     isKeynote: false
 -   time: 4:40 PM - 5:00 PM
+    description: 
+    speaker: Minxuan Zhou
+    affiliation: IIT
+    isKeynote: false
+-   time: 5:00 PM - 5:15 PM
     description: Closing Remarks
     speaker: 
     affiliation: 
