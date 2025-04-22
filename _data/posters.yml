@@ -310,7 +310,7 @@
 
 - Authors: Lucas Raicu and Ioan Raicu
   Institution: Glenbrook South High School, Illinois Institute of Technology
-  session: 2
+  session: 1
   Title: "CryptoHeat: A Smart, Cost-Efficient Personal Heater Powered by Blockchain Mining"
 
 - Authors: Zack Chaffee
@@ -353,7 +353,22 @@
   session: 2
   Title: "Cloud-Optimized Secure Query Evaluation"
 
-- Authors: Chloe Kilroy and Tyler Rosario
+- Authors: Chloe Kilroy and Tyler Rosari
   Institution: Loyola University of Chicago 
   session: 2
   Title: "Cyberbullying Network: Analyzing Victim, Aggressor, and Defender Interactions on Instagram"
+
+- Authors: Anwar Benhnini and Ioan Raicu
+  Institution: Illinois Institute of Technology 
+  session: 1
+  Title: "Time Series Forecasting of Bitcoin Historical Data with Large Language Models"
+
+- Authors: Jin Zhou, Colin Thomas, Barry Sly-Delgado, Connor Moore, Benjamin Tovar, Kevin Lannon and Douglas Thain
+  Institution: University of Notre Dame 
+  session: 2
+  Title: "Effectively Exploiting Node-Local Storage For Data-Intensive Scientific Workflows"
+
+- Authors: Vaughn Hartzell and Neil Klingensmith
+  Institution: Loyola University of Chicago 
+  session: 2
+  Title: "Reverse Engineering RF Communication in Tire Pressure Monitoring Systems"
