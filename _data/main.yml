@@ -33,7 +33,7 @@ contents:
     panel: false
     posters: true
     talks: false
-    timetable: false
+    timetable: true
     tutorials: false
     workshops: false
   meeting:
