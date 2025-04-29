@@ -10,8 +10,8 @@
     isKeynote: false
 -   time: '9:00 AM - 10:00 AM'
     description: Keynote
-    speaker: 'TBA'
-    affiliation: 
+    speaker: 'Peter Dinda'
+    affiliation: 'Northwestern University'
     isKeynote: true
 -   time: 10:00 AM - 11:20 AM
     description: |
