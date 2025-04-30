@@ -27,12 +27,12 @@
     affiliation: IIT
     isKeynote: false
 -   time: 11:40 AM - 12:00 PM
-    description: 
+    description: Efficient and Transparent Cross-Border Data Movement
     speaker: Sanjay Krishnan
     affiliation: UChicago
     isKeynote: false
 -   time: 12:00 PM - 12:20 PM
-    description: 
+    description: Talk title: Navigating Dynamic Quantum System Noise with Context-aware Error Management
     speaker: Kate Smith
     affiliation: Northwestern
     isKeynote: false
@@ -42,7 +42,7 @@
     affiliation: ''
     isKeynote: false
 -   time: 1:40 PM - 2:00 PM
-    description: 
+    description: Toward Lightweight Cross-Architecture Process Migration
     speaker: Xiaoguang Wang
     affiliation: UIC
     isKeynote: false
@@ -65,18 +65,18 @@
     affiliation: ''
     isKeynote: false
 -   time: 4:00 PM - 4:20 PM
-    description: 
-    speaker: Mona Rahimi
+    description:  A Semantic-Aware Requirements Engineering Framework for AI-enabled Perception Systems
+    speaker: <a href="https://faculty.cs.niu.edu/~rahimi/">Mona Rahimi</a>
     affiliation: Northern Illinois
     isKeynote: false
 -   time: 4:20 PM - 4:40 PM
-    description: 
+    description: Contagions & Confrontations: Network Science Insights into COVID‑19 Literature and Cyberbullying
     speaker: Satyaki Sikdar
     affiliation: Loyola
     isKeynote: false
 -   time: 4:40 PM - 5:00 PM
-    description: 
-    speaker: Minxuan Zhou
+    description: Emerging Hardware Acceleration for Fully Homomorphic Encryption
+    speaker: <a href=" https://zhouminxuan.github.io/">Minxuan Zhou</a>
     affiliation: IIT
     isKeynote: false
 -   time: 5:00 PM - 5:15 PM
