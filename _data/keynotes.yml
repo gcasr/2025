@@ -1,7 +1,7 @@
 - title: " Attacking Scientific Applications"
   time: ""
   name: Peter Dinda
-  institution: 
-  photo:
+  institution: Northwestern University
+  photo: dinda.jpg
   abstract: "Scientific applications are increasingly critical to the economic, military, and environmental health of the nation.   Are they vulnerable to attack?  Are they vulnerable in novel ways compared to typical software?    I will describe my group’s work that addresses these questions through user studies, fuzzing, and introspection and virtualization of floating point arithmetic.    A recent effort found numerous vulnerabilities in several applications that leave them open to “classical” attacks such as code injection and return-oriented programming.  Another effort found a proof-of-concept for a novel form of attack we call “chaos control”.  Our results, and those of others, suggest that the answers to both questions is yes.  "
   biography: "Peter Dinda is a professor in the Department of Computer Science at Northwestern University, and also holds an appointment in the Department of Electrical and Computer Engineering. He headed the Computer Engineering and Systems division for five years within the previous Department of Electrical Engineering and Computer Science. He holds a B.S. in electrical and computer engineering from the University of Wisconsin and a Ph.D. in computer science from Carnegie Mellon University. He works in experimental computer systems, particularly parallel and distributed systems, and has authored over 140 scientific papers, authored or is a major contributor to several large publicly available codebases, and holds five patents.  He is a Fellow of the IEEE. More at pdinda.org."
