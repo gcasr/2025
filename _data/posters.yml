@@ -377,3 +377,8 @@
   Institution: University of Notre Dame 
   session: 2
   Title: "Floability: Enabling Portable Scientific Workflows Across HPC Facilities"
+
+- Authors: Karen Heart and Alexander Rasin
+  Institution: DePaul University
+  session: 2
+  Title: "Securing File Access with Compartmentalization"
