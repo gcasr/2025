@@ -183,6 +183,16 @@
   session: 1
   Title: "Dataflow Notebooks: Improving Dependency Understanding in Computational Notebook Systems"
 
+- Authors: Manuel Sandoval
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "Cyberbullying Role Detection Using LLMs"
+
+- Authors: Shoaib Hussain Mohammed and Ihab Al-Shaikhli
+  Institution: Loyola University Chicago
+  session: 1
+  Title: "Adv2FL: Attacking Secure and Differentially Private FL Systems"
+
 - Authors: Nick Zappia, Konstantin Läufer, TaiNing Wang, George K. Thiruvathukal and Mohammed Abuhamad
   Institution: Loyola University Chicago
   session: 2
@@ -377,3 +387,8 @@
   Institution: DePaul University
   session: 2
   Title: "Securing File Access with Compartmentalization"
+
+- Authors: Sunayana Jain and Mujtaba Nazari
+  Institution: Loyola University Chicago
+  session: 2
+  Title: "Targeted Backdoor Attack against Differentially-Private Federated Learning of LLM"
