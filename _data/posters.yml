@@ -363,11 +363,6 @@
   session: 2
   Title: "Time Series Forecasting of Bitcoin Historical Data with Large Language Models"
 
-- Authors: Jin Zhou, Colin Thomas, Barry Sly-Delgado, Connor Moore, Benjamin Tovar, Kevin Lannon and Douglas Thain
-  Institution: University of Notre Dame 
-  session: 2
-  Title: "Effectively Exploiting Node-Local Storage For Data-Intensive Scientific Workflows"
-
 - Authors: Vaughn Hartzell and Neil Klingensmith
   Institution: Loyola University of Chicago 
   session: 2
