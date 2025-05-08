@@ -188,7 +188,7 @@
   session: 1
   Title: "Cyberbullying Role Detection Using LLMs"
 
-- Authors: Shoaib Hussain Mohammed and Ihab Al-Shaikhli
+- Authors: Mujtaba Nazari, Shoaib Hussain Mohammed, Sunayana Jain, Ihab Al shaikhli, ​Peter Dordal and Mohammed Abuhamad
   Institution: Loyola University Chicago
   session: 1
   Title: "Adv2FL: Attacking Secure and Differentially Private FL Systems"
@@ -388,7 +388,7 @@
   session: 2
   Title: "Securing File Access with Compartmentalization"
 
-- Authors: Sunayana Jain and Mujtaba Nazari
+- Authors: Sunayana Jain, Mujtaba Nazari, Arslan Bisharat,​ Eldor Abdukhamidov and Mohammed Abuhamad
   Institution: Loyola University Chicago
   session: 2
   Title: "Targeted Backdoor Attack against Differentially-Private Federated Learning of LLM"
