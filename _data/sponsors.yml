@@ -14,10 +14,6 @@
   image: northwestern.png
   link: https://northwestern.edu/
 
-- name: Discovery Partners Institute
-  image: dpi.png
-  link: https://dpi.uillinois.edu
-
 - name: Northern Illinois University
   image: niu.png
   link: https://niu.edu
@@ -25,6 +21,10 @@
 - name: DePaul University
   image: depaul.png
   link: https://depaul.edu
+
+- name: Discovery Partners Institute
+  image: dpi.png
+  link: https://dpi.uillinois.edu
 
 - name: National Science Foundation
   image: NSF.png
