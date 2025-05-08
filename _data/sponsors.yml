@@ -2,10 +2,6 @@
   image: loyola.png
   link: https://www.luc.edu/
 
-- name: National Science Foundation
-  image: NSF.png
-  link: https://www.nsf.gov/
-
 - name: University of Illinois Chicago
   image: uic.png
   link: https://uic.edu
@@ -29,3 +25,7 @@
 - name: DePaul University
   image: depaul.png
   link: https://depaul.edu
+
+- name: National Science Foundation
+  image: NSF.png
+  link: https://www.nsf.gov/
