@@ -26,6 +26,10 @@
   image: dpi.png
   link: https://dpi.uillinois.edu
 
+- name: Illinois Institute of Technology
+  image: illinois_tech.png
+  link: https://www.iit.edu/
+
 - name: National Science Foundation
   image: NSF.png
   link: https://www.nsf.gov/
