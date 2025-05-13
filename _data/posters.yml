@@ -313,11 +313,6 @@
   session: 2
   Title: "Task Graph Restructuring via Function Based Annotation For Large-Scale Scientific Applications"
 
-- Authors: Bekmukhamed Tursunbayev and Ioan Raicu
-  Institution: Illinois Institute of Technology
-  session: 2
-  Title: "Scalable Blockchain Sharding: Performance Analysis and Trade-Offs"
-
 - Authors: Lucas Raicu and Ioan Raicu
   Institution: Glenbrook South High School, Illinois Institute of Technology
   session: 1
@@ -337,11 +332,6 @@
   Institution: Saint Louis University, Sejong University
   session: 2
   Title: "PaDiM-Wavelet: Memory-Efficient Anomaly Detection for Heterogeneous Computing Systems"
-
-- Authors: Nehal Patil, Lan Nguyen and Ioan Raicu
-  Institution: Illinois Institute of Technology
-  session: 2
-  Title: "Benchmarking Time-Series Databases for Blockchain Workloads Using a Scalable Multi-Node Framework"
 
 - Authors: Talha Azaz
   Institution: DePaul University
